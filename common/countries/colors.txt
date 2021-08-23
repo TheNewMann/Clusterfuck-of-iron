@@ -116,3 +116,7 @@ AMA = {
 	color = rgb { 240 248 0 }
 	color_ui = rgb { 240 248 0 }
 }
+
+UBK = {
+	color = rgb { 58 255 196 }
+	color_ui = rgb { 58 255 196 }

@@ -10,6 +10,8 @@ USA = "countries/USA.txt"
 MAN = "countries/Manchukou.txt"
 ITA = "countries/Italy.txt"
 
+### Europe
+
 LIT = "countries/Lithuania.txt"
 EST = "countries/Estonia.txt"
 LAT = "countries/Latvia.txt"
@@ -20,6 +22,7 @@ ENL = "countries/England.txt"
 WLS = "countries/Wales.txt"
 IRE = "countries/Ireland.txt"
 SCO = "countries/Scotland.txt"
+UBK = "countries/Uzbekistan.txt"
 
 ### North America
 TEX = "countries/Texas.txt"

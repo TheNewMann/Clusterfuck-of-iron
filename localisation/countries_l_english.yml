@@ -524,3 +524,49 @@ l_english:
  :0 ""
  _DEF:0 ""
  _ADJ:0 ""
+ 
+  ####################based uzbek government in exile#####################
+  #CUMMUNISM
+ UBK_cummunism:1 "Uzbek Cummunist Republic"
+ UBK_cummunism_DEF:1 "the People's Union of Uzbekistan"
+ UBK_cummunism_ADJ:0 "Uzbek"
+ #BRUHGUNDIAN SYSTEM
+ UBK_bruhgundian_system:1 "Great State of Turania"
+ UBK_bruhgundian_system_DEF:1 "the Great State of Turania"
+ UBK_bruhgundian_system_ADJ:0 "Turani"
+ #CHAD MARXISM
+ UBK_Chad_Marxism:1 "People's Union of Uzbekistan"
+ UBK_Chad_Marxism_DEF:1 "the People's Union of Uzbekistan"
+ UBK_Chad_Marxism_ADJ:0 "Uzbek"
+ #MONGOLISM
+ UBK_mongolism:1 "Horde of Turania"
+ UBK_mongolism_DEF:1 "the Horde of Turania"
+ UBK_mongolism_ADJ:0 "Turani"
+ #TRANS NATIONAL SOCIALISM
+ UBK_trans_national_socialism:1 "State of Trans-Turania"
+ UBK_trans_national_socialism_DEF:1 "the State of Trans-Turania"
+ UBK_trans_national_socialism_ADJ:0 "Turani"
+ #ANARCHO CAPITALISM
+ UBK_anarcho_capitalism:1 "Corporatist State of Uzbekistan"
+ UBK_anarcho_capitalism_DEF:1 "the Corporatist State of Uzbekistan"
+ UBK_anarcho_capitalism_ADJ:0 "Uzbek"
+ #REDPILLED AUTHOCRACY
+ UBK_redpilled_monarchy:1 "Emirate of Uzbekistan"
+ UBK_redpilled_monarchy_DEF:1 "the Emirate of Uzbekistan"
+ UBK_redpilled_monarchy_ADJ:0 "Uzbek"
+ #TOTAL ANARCHY
+ UBK_total_anarchy:1 "Makhnovian State of Turania"
+ UBK_total_anarchy_DEF:1 "the Makhnovian State of Turania"
+ UBK_total_anarchy_ADJ:0 "Turani"
+ #MEMECRACY
+ UBK_memecracy:1 "Turanian Trolls Republic"
+ UBK_memecracy_DEF:1 "the Turanian Trolls Republic"
+ UBK_memecracy_ADJ:0 "Turani"
+ #BASED FUNDAMENTALISM
+ UBK_based_fundamentalism:1 "Holy Order of Uzbekistan"
+ UBK_based_fundamentalism_DEF:1 "the Holy Order of Uzbekistan"
+ UBK_based_fundamentalism_ADJ:0 "Uzbek"
+ #stuff for events or incase i fuck up
+ UBK:0 "Uzbekistan"
+ UBK_DEF:0 "Uzbekistan"
+ UBK_ADJ:0 "Uzbek"
