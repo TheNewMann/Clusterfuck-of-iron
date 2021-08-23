@@ -25,6 +25,10 @@ SER = {
 	color = rgb { 72 111 196 }
 	color_ui = rgb { 72 111 196 }
 
+HUN = {
+	color = rgb { 158 45 81 }
+	color_ui = rgb { 158 45 81 }
+
 
 # North America
 TEX = {
