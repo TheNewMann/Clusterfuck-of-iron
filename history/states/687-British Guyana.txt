@@ -4,6 +4,11 @@ state={
 	manpower = 309000
 	
 	state_category = pastoral
+		
+	history = {
+		owner = AMA
+		add_core_of = AMA
+	}
 	
 	provinces={
 		4982 8107 12716 

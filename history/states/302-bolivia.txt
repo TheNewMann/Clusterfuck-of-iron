@@ -2,6 +2,11 @@ state={
 	id=302
 	name="STATE_302"
 	state_category = city
+		
+	history = {
+		owner = LIM
+		add_core_of = LIM
+	}
 
 	provinces={
 		2174 5179 5229 5230 8157 8225 10938 10952 10987 12930 12979 13134 13174 13195 

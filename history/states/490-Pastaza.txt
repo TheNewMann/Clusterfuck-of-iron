@@ -5,6 +5,12 @@ state={
 	manpower = 70020
 	
 	state_category = pastoral
+	
+	history = {
+		owner = ZUL 
+		add_core_of = ZUL
+	}
+	
 	provinces={
 		8149 10942 
 	}

@@ -4,6 +4,12 @@ state={
 	manpower=76485
 	state_category = small_island
 
+	history = {
+		owner = ZUL 
+		add_core_of = ZUL
+	}
+
+
 	provinces={
 		379 11106 11350 13009 
 	}

@@ -3,6 +3,12 @@ state={
 	name="STATE_695"
 	manpower = 76299
 	
+	history = {
+		owner = ZUL 
+		add_core_of = ZUL
+	}
+
+
 	state_category = rural
 	provinces={
 		153 

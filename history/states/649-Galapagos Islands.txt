@@ -3,6 +3,13 @@ state=
 	id=649
 	name="STATE_649"
 	state_category = tiny_island
+	
+	history = {
+		owner = ZUL 
+		add_core_of = ZUL
+	}
+
+
 	manpower=11532
 	provinces= { 5023 }
 }

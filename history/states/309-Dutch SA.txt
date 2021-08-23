@@ -4,7 +4,12 @@ state={
 	name="STATE_309"
 	manpower = 152000
 	state_category = rural
-
+		
+	history = {
+		owner = AMA
+		add_core_of = AMA
+	}
+	
 	provinces={
 		1928 10906 12828 
 	}

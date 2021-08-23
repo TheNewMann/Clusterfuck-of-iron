@@ -6,6 +6,11 @@ state={
 	
 	state_category = town
 
+	history = {
+		owner = ZUL 
+		add_core_of = ZUL
+	}
+	
 	provinces={
 		1944 1997 2052 4526 5088 10855 12772 
 	}

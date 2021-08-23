@@ -5,7 +5,12 @@ state={
 	manpower = 6665500
 	
 	state_category = large_city
-
+		
+	history = {
+		owner = RIO
+		add_core_of = RIO
+	}
+	
 	provinces={
 		5172 8190 10980 12996 
 	}

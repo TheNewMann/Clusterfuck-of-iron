@@ -3,7 +3,12 @@ state={
 	name="STATE_492"
 	
 	state_category = rural
-
+	
+	history = {
+		owner = LIM
+		add_core_of = LIM
+	}
+	
 	provinces={
 		2182 2210 2225 5202 12953 13086 13175 
 	}

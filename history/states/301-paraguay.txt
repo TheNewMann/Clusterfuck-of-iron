@@ -5,7 +5,12 @@ state={
 	manpower = 890100
 	
 	state_category = town
-
+	
+	history = {
+		owner = MES
+		add_core_of = MES
+	}
+	
 	provinces={
 		2152 2173 2194 11023 12901 
 	}

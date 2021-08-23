@@ -4,6 +4,11 @@ state={
 	name="STATE_303" # Lima
 	manpower = 3563249
 	state_category = large_city
+	
+	history = {
+		owner = LIM
+		add_core_of = LIM
+	}
 
 	provinces={
 		2156 2162 5190 8199 12969 12983 12997 

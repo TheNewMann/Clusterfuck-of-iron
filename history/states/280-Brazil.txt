@@ -4,7 +4,12 @@ state={
 	name="STATE_280"
 	
 	state_category = pastoral
-
+		
+	history = {
+		owner = AMA
+		add_core_of = AMA
+	}
+	
 	provinces={
 		2142 2147 2204 8175 11010 12939 
 	}

@@ -37,3 +37,13 @@ YUC = "countries/Yucatan.txt"
 CUB = "countries/Cuba.txt"
 INA = "countries/Indiana.txt"
 KEN = "countries/Kentucky.txt"
+
+### South America
+CHA = "countries/Chaco Austral.txt"
+SAN = "countries/Santiago.txt"
+RIO = "countries/Rio Grande Do Sul.txt"
+MES = "countries/Mesopotamia.txt"
+LIM = "countries/Lima.txt"
+ZUL = "countries/Zulia.txt"
+DNO = "countries/Rio Grande Do Norte.txt"
+AMA = "countries/Amazon.txt"

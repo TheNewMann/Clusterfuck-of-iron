@@ -5,6 +5,11 @@ state={
 	manpower = 2000000
 	
 	state_category = city
+	
+	history = {
+		owner = ZUL 
+		add_core_of = ZUL
+	}
 
 	provinces={
 		5051 5120 8047 8075 8252 10888 11020 12798 

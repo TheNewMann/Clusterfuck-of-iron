@@ -5,6 +5,11 @@ state={
 	
 	state_category = city
 	
+	history = {
+		owner = ZUL 
+		add_core_of = ZUL
+	}
+	
 	manpower = 1335010
 
 	provinces={
