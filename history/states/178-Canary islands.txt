@@ -5,6 +5,12 @@ state={
 	manpower = 561347
 	
 	state_category = small_island
+	
+	history = {
+		owner = POR
+		add_core_of = POR
+	}
+	
 	provinces={
 		13071 
 	}

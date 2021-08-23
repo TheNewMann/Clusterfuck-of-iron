@@ -1,4 +1,4 @@
-﻿capital = 497
+﻿capital = 470
 set_convoys = 5
 
 set_politics = {
@@ -11,5 +11,4 @@ set_politics = {
 set_popularities = {
     total_anarchy = 100
 }
-
 

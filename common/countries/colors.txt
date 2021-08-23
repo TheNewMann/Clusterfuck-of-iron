@@ -28,7 +28,44 @@ SER = {
 HUN = {
 	color = rgb { 158 45 81 }
 	color_ui = rgb { 158 45 81 }
+}
+LIT = {
+	color = rgb { 219 219 119 }
+	color_ui = rgb { 255 255 155 }
+}
+EST = {
+	color = rgb { 50 135 175 }
+	color_ui = rgb { 99 204 254 }
+}
+LAT = {
+	color = rgb { 75 77 186 }
+	color_ui = rgb { 124 125 184 }
+}
+IRE = {
+	color = rgb { 80 159 90 }
+	color_ui = rgb { 104 207 117 }
+}
+SPR = {
+	color = rgb { 242 205 94 }
+	color_ui = rgb { 255 255 122 }
+}
+ITA = {
+	color = rgb { 67 127 63 }
+	color_ui = rgb { 87 165 82 }
+}
+POR = {
+	color = rgb { 39 116 70 }
+	color_ui = rgb { 51 151 91 }
+}
+NIT = {
+	color = rgb { 67 116 70 }
+	color_ui = rgb { 51 151 91 }
+}
 
+NPL = {
+	color = rgb { 242 205 94 }
+	color_ui = rgb { 255 255 122 }
+}
 
 # North America
 TEX = {
@@ -137,13 +174,83 @@ ZUL = {
 	color_ui = rgb { 240 247 52 }
 }
 
-DNO = {
-	color = rgb { 29 180 21 }
-	color_ui = rgb { 29 180 21 }
-}
-
 AMA = {
 	color = rgb { 240 248 0 }
 	color_ui = rgb { 240 248 0 }
 }
 
+#Africa 
+ETH = {
+	color = rgb { 47 37 152 }
+	color_ui = rgb { 47 37 152 }
+}
+
+EGY = {
+	color = rgb { 223 206 56 }
+	color_ui = rgb { 223 206 56 }
+}
+
+LIB = {
+	color = rgb { 58 88 99 }
+	color_ui = rgb { 58 88 99 }
+}
+
+SAU = {
+	color = rgb { 149 199 146 }
+	color_ui = rgb { 149 199 146 }
+}
+
+TUN = {
+	color = rgb { 61 189 30 }
+	color_ui = rgb { 61 189 30 }
+}
+
+ALG = {
+	color = rgb { 150 241 145 }
+	color_ui = rgb { 150 241 145 }
+}
+
+NIG = {
+	color = rgb { 41 186 65 }
+	color_ui = rgb { 41 186 65 }
+}
+
+ZAM = {
+	color = rgb { 160 218 45 }
+	color_ui = rgb { 160 218 45 }
+}
+
+BEC = {
+	color = rgb { 67 63 54 }
+	color_ui = rgb { 67 63 54 }
+}
+
+SOM = {
+	color = rgb { 26 75 72 }
+	color_ui = rgb { 26 75 72 }
+}
+
+CHD = {
+	color = rgb { 255 255 255 }
+	color_ui = rgb { 255 255 255 }
+}
+
+MOR = {
+	color = rgb { 81 31 30 }
+	color_ui = rgb { 81 31 30 }
+}
+
+RHO = {
+	color = rgb { 255 165 0 }
+	color_ui = rgb { 255 165 0 }
+}
+
+CON = {
+	color = rgb { 255 219 149 }
+	color_ui = rgb { 255 219 149 }
+}
+
+CAP = {
+	color = rgb { 136 181 125 }
+	color_ui = rgb { 136 181 125 }
+}

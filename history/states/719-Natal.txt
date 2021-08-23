@@ -4,6 +4,11 @@ state={
 	manpower = 3962157
 	state_category = city
 
+	history = {
+		owner = SAU
+		add_core_of = SAU
+	}
+	
 	provinces={
 		1468 1494 1833 4556 4584 4696 7576 7900 8178 
 	}

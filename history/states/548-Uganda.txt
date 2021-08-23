@@ -3,6 +3,12 @@ state={
 	name="STATE_548"
 
 	state_category = rural
+	
+	history = {
+		owner = CON
+		add_core_of = CON
+	}
+	
 	provinces={
 		3854 7088 7133 8223 12929 12989 13177 
 	}

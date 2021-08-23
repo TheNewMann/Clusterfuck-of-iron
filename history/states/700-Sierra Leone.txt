@@ -5,6 +5,11 @@ state={
 	
 	state_category = pastoral
 	
+	history = {
+		owner = POR
+		add_core_of = POR
+	}
+	
 	provinces={
 		2038 2094 
 	}

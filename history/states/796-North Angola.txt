@@ -7,4 +7,10 @@ state={
 	manpower=25000
 	buildings_max_level_factor=1.000
 	state_category=rural
+	
+	history = {
+		owner = CHD
+		add_core_of = CHD
+	}
+	
 }

@@ -5,6 +5,12 @@ state=
 	manpower = 344700
 	
 	state_category = enclave
+				
+	history = {
+		owner = ETH
+		add_core_of = ETH
+	}
+	
 	provinces={
 		1905 5068 8094 10777 10833 10921 12759 12814
 	}

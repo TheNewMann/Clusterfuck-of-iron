@@ -5,6 +5,12 @@ state={
 	manpower = 543817
 	
 	state_category = pastoral
+		
+	history = {
+		owner = NIG
+		add_core_of = NIG
+	}
+	
 	provinces={
 		1975 2056 12707
 	}

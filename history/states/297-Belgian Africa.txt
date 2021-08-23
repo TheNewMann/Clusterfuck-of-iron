@@ -5,6 +5,12 @@ state=
 	manpower = 185000
 	
 	state_category = enclave
+							
+	history = {
+		owner = ZAM
+		add_core_of = ZAM
+	}
+	
 	provinces=
 	{
 1903 8244 	}

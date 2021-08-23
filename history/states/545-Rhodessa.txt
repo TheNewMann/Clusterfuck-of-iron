@@ -2,6 +2,11 @@ state={
 	id=545
 	
 	state_category = pastoral
+							
+	history = {
+		owner = RHO
+		add_core_of = RHO
+	}
 	
 	name="STATE_545"
 	provinces={

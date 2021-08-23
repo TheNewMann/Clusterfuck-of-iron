@@ -8,10 +8,8 @@ CHI = "countries/China.txt"
 PRC = "countries/ComChina.txt"
 USA = "countries/USA.txt"
 MAN = "countries/Manchukou.txt"
-ITA = "countries/Italy.txt"
 
 ### Europe
-
 LIT = "countries/Lithuania.txt"
 EST = "countries/Estonia.txt"
 LAT = "countries/Latvia.txt"
@@ -29,9 +27,12 @@ BOS = "countries/Bosnia.txt"
 MNT = "countries/Montenegro.txt"
 SER = "countries/Serbia.txt"
 HUN = "countries/Hungary.txt"
-
-
-
+POR = "countries/Portugal.txt"
+ITA = "countries/Italy.txt"
+SPR = "countries/Spain.txt"
+OCC = "countries/Occitania.txt"
+NIT = "countries/North Italy.txt"
+NPL = "countries/Naples.txt"
 
 ### North America
 TEX = "countries/Texas.txt"
@@ -57,5 +58,21 @@ RIO = "countries/Rio Grande Do Sul.txt"
 MES = "countries/Mesopotamia.txt"
 LIM = "countries/Lima.txt"
 ZUL = "countries/Zulia.txt"
-DNO = "countries/Rio Grande Do Norte.txt"
 AMA = "countries/Amazon.txt"
+
+### Africa
+ETH = "countries/Ethiopia.txt"
+EGY = "countries/Egypt.txt"
+LIB = "countries/Liberia.txt"
+SAU = "countries/South Africa.txt"
+TUN = "countries/Tunisia.txt"
+ALG = "countries/Algeria.txt"
+NIG = "countries/Niger.txt"
+ZAM = "countries/Zambia.txt" 
+BEC = "countries/BEC.txt"
+SOM = "countries/Somalia.txt"
+CHD = "countries/Chad.txt"
+MOR = "countries/Morroco.txt"
+RHO = "countries/Rhodesia.txt"
+CON = "countries/Congo.txt"
+CAP = "countries/Cape.txt"

@@ -5,7 +5,12 @@ state={
 	manpower = 3186184
 	
 	state_category = pastoral
-
+			
+	history = {
+		owner = LIB
+		add_core_of = LIB
+	}
+	
 	provinces={
 		2001 7950 7983 8071 10836 12851
 	}
