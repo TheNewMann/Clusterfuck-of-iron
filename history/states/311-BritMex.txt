@@ -5,5 +5,11 @@ state=
 	manpower = 51000
 	
 	state_category = pastoral
+					
+	history = {
+		owner = YUC
+		add_core_of = YUC
+	}
+	
 	provinces= { 2077 }
 }

@@ -6,6 +6,11 @@ state={
 	
 	state_category = rural
 
+	history = {
+		owner = ALE
+		add_core_of = ALE
+	}
+
 	provinces={
 		7259 1214 12259 12272 1420 
 	}

@@ -5,6 +5,11 @@ state=
 	manpower = 2614588
 	
 	state_category = city
+		
+	history = {
+		owner = KEN
+		add_core_of = KEN
+	}
 
 	provinces=
 	{

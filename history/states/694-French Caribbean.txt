@@ -4,6 +4,11 @@ state={
 	manpower = 444290
 
 	state_category = rural
+						
+	history = {
+		owner = CUB
+		add_core_of = CUB
+	}
 
 	provinces={
 		177 9377 13084 

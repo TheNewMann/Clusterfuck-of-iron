@@ -5,6 +5,12 @@ state={
 	manpower = 1880998
 	
 	state_category = city
+	
+	history = {
+		owner = TEX
+		add_core_of = TEX
+	}
+	
 	provinces={
 		1352 1753 4586 4740 4757 4811 4814 4871 7834 7892 9802 10340 10532 12024 12513 
 	}

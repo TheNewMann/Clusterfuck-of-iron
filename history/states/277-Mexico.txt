@@ -5,6 +5,11 @@ state={
 	manpower = 3424403
 	
 	state_category = city
+				
+	history = {
+		owner = MEX
+		add_core_of = MEX
+	}
 
 	provinces={
 		1965 2008 2011 7913 12755 

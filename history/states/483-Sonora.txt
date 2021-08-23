@@ -5,6 +5,11 @@ state={
 	manpower = 303987
 	
 	state_category = rural
+			
+	history = {
+		owner = MEX
+		add_core_of = MEX
+	}
 
 	provinces={
 		2069 4908 4977 5071 8012 8033 10765 10848 12833 13214

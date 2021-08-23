@@ -5,6 +5,12 @@ state=
 	manpower = 2380000
 	
 	state_category = town
+						
+	history = {
+		owner = CUB
+		add_core_of = CUB
+	}
+	
 	provinces={
 		1594 1635 4641
 	}

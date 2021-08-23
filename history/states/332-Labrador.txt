@@ -3,6 +3,11 @@ state={
 	name="STATE_332"
 	
 	state_category = wasteland
+		
+	history = {
+		owner = ALE
+		add_core_of = ALE
+	}
 
 	provinces={
 		1426 1785 4720 4787 12503 13165 13180 

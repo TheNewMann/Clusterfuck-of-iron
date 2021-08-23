@@ -5,6 +5,11 @@ state=
 	manpower = 18000
 	
 	state_category = wasteland
+			
+	history = {
+		owner = ALE
+		add_core_of = ALE
+	}
 	
 	provinces=
 	{

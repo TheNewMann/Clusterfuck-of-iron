@@ -5,6 +5,12 @@ state={
 	manpower = 440289
 	
 	state_category = rural
+					
+	history = {
+		owner = YUC
+		add_core_of = YUC
+	}
+	
 	provinces={
 		4904 4965 12715 
 	}

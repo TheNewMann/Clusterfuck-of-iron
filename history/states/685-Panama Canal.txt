@@ -4,6 +4,11 @@ state={
 	manpower = 39467
 	
 	state_category = enclave
+					
+	history = {
+		owner = YUC
+		add_core_of = YUC
+	}
 	
 	provinces={ 7617 }
 }

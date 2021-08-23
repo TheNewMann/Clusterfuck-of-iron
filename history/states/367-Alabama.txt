@@ -5,6 +5,11 @@ state=
 	manpower = 2646247
 	
 	state_category = city
+	
+	history = {
+		owner = FLO
+		add_core_of = FLO
+	}
 
 	provinces=
 	{

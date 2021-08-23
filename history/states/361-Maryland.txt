@@ -5,7 +5,12 @@ state={
 	manpower = 2118394
 	
 	state_category = city
-
+	
+	history = {
+		owner = PEN
+		add_core_of = PEN
+	}
+	
 	provinces={
 		3957 6823 6892 6929 6984 9758 9786 11892 
 	}

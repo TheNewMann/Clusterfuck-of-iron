@@ -8,4 +8,10 @@ state={
 	manpower=67500
 	buildings_max_level_factor=1
 	state_category="rural"
+
+	
+	history = {
+		owner = ALE
+		add_core_of = ALE
+	}
 }

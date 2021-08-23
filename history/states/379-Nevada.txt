@@ -5,6 +5,11 @@ state=
 	manpower = 91057
 	
 	state_category = rural
+			
+	history = {
+		owner = UTA
+		add_core_of = UTA 
+	}
 
 	provinces=
 	{

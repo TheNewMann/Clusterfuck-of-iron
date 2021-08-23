@@ -4,7 +4,11 @@ state={
 	name="STATE_313"
 	manpower = 1771000
 	state_category = town
-
+				
+	history = {
+		owner = YUC
+		add_core_of = YUC
+	}
 
 	provinces={
 		4991 10842 10886 13085 

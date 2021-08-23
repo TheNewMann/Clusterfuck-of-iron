@@ -5,7 +5,12 @@ state={
 	manpower = 255060
 	
 	state_category = rural
-
+		
+	history = {
+		owner = ALE
+		add_core_of = ALE
+	}
+	
 	provinces={
 		7758 7788 12505 12680 12698 
 	}

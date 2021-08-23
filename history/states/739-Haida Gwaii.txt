@@ -7,4 +7,9 @@ state={
 	manpower=12684
 	buildings_max_level_factor=1	
 	state_category="small_island"
+
+	history = {
+		owner = ALE
+		add_core_of = ALE
+	}
 }
