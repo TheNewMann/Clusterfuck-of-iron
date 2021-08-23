@@ -1,0 +1,8 @@
+spriteTypes = {
+
+spriteType = {
+		name = "GFX_ideology_anarcho_capitalism_group"
+		texturefile = "gfx//interface//ideologies//anarcho_capitalism_group.dds"
+	}
+
+}

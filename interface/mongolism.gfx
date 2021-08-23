@@ -1,0 +1,8 @@
+spriteTypes = {
+
+spriteType = {
+		name = "GFX_ideology_mongolism_group"
+		texturefile = "gfx//interface//ideologies//mongolism_group.dds"
+	}
+
+}

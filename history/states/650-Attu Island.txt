@@ -1,0 +1,10 @@
+state=
+{
+	id=650
+	name="STATE_650"
+	manpower=20
+	state_category = tiny_island
+	provinces=
+	{
+13067 	}
+}

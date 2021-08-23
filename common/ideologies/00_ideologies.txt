@@ -1,0 +1,579 @@
+ideologies = {
+	mongolism = {
+		
+		types = {
+		
+			og_mongolism = {
+			}
+            
+            chad_turkomongolism = {
+			}
+			
+			fingolian_mongolism = {
+			}
+			
+			uralic_mongolism = {
+			}
+            
+            hun_garian_mongolism = {
+			}
+            
+            mongol_larping = {
+			}
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_MONGOLISM_1"
+			"FACTION_NAME_MONGOLISM_2"
+			"FACTION_NAME_MONGOLISM_3"
+			"FACTION_NAME_MONGOLISM_4"
+			"FACTION_NAME_MONGOLISM_5"
+		}
+		
+		color = { 51 0 51 }
+		
+		war_impact_on_world_tension = 0.75		
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			can_force_government = YES
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			puppet_cost_factor = -0.2
+			civilian_intel_to_others = 100
+			army_intel_to_others = 100
+			navy_intel_to_others = 100
+			airforce_intel_to_others = 100
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+		cummunism = {
+		
+		types = {
+		
+			prostitute_dictatorship = {
+			}
+			
+			crossdressing_republicanism = {
+			}
+			
+			weeb_culture = {
+			}
+			
+			furry_supremacy = {
+			}
+			
+			cult_of_secks = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_CUMMUNIST_1"
+			"FACTION_NAME_CUMMUNIST_2"
+			"FACTION_NAME_CUMMUNIST_3"
+			"FACTION_NAME_CUMMUNIST_4"
+			"FACTION_NAME_CUMMUNIST_5"
+		}
+				
+		war_impact_on_world_tension = 0.75		
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+        color = { 255 255 255 }
+        
+		rules = {
+			can_force_government = YES
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			puppet_cost_factor = -0.2
+			civilian_intel_to_others = 100
+			army_intel_to_others = 100
+			navy_intel_to_others = 100
+			airforce_intel_to_others = 100
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+    
+    bruhgundian_system = {
+		
+		types = {
+		
+			hyperborean_bullshit = {
+			}
+			
+			tno_himmler_model = {
+			}
+			
+			genocidal_gamer_model = {
+			}
+			
+			the_soy-vagner_thought = {
+			}
+            
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_BRUHGUNDIAN_1"
+			"FACTION_NAME_BRUHGUNDIAN_2"
+			"FACTION_NAME_BRUHGUNDIAN_3"
+			"FACTION_NAME_BRUHGUNDIAN_4"
+			"FACTION_NAME_BRUHGUNDIAN_5"
+		}
+		
+		color = { 74 32 87 }
+		
+		war_impact_on_world_tension = 0.75		
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+		rules = {
+			can_force_government = YES
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			puppet_cost_factor = -0.2
+			civilian_intel_to_others = 100
+			army_intel_to_others = 100
+			navy_intel_to_others = 100
+			airforce_intel_to_others = 100
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+	
+		anarcho_capitalism = {
+		
+		types = {
+		
+			corporatism = {
+			}
+			
+			industrial_susiety = {
+			}
+			
+			oktan_thought = {
+			}
+			
+            mcdonald_system = {
+			}
+            
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_ANCAP_1"
+			"FACTION_NAME_ANCAP_2"
+			"FACTION_NAME_ANCAP_3"
+			"FACTION_NAME_ANCAP_4"
+			"FACTION_NAME_ANCAP_5"
+		}
+				
+		war_impact_on_world_tension = 0.75		
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+        color = { 255 230 0 }
+        
+		rules = {
+			can_force_government = YES
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			puppet_cost_factor = -0.2
+			civilian_intel_to_others = 100
+			army_intel_to_others = 100
+			navy_intel_to_others = 100
+			airforce_intel_to_others = 100
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+    	
+	
+		trans_national_socialism = {
+		
+		types = {
+		
+			trans_strasserism = {
+			}
+			
+			anti_cis_front = {
+			}
+			
+			trans_nazism = {
+			}
+            
+            pink_sun = {
+			}
+				
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_TRANSNATSOC_1"
+			"FACTION_NAME_TRANSNATSOC_2"
+			"FACTION_NAME_TRANSNATSOC_3"
+			"FACTION_NAME_TRANSNATSOC_4"
+			"FACTION_NAME_TRANSNATSOC_5"
+		}
+				
+		war_impact_on_world_tension = 0.75		
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+        color = { 234 5 255 }
+        
+		rules = {
+			can_force_government = YES
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			puppet_cost_factor = -0.2
+			civilian_intel_to_others = 100
+			army_intel_to_others = 100
+			navy_intel_to_others = 100
+			airforce_intel_to_others = 100
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+
+		total_anarchy = {
+		
+		types = {
+		
+			pure_anarchy = {
+			}
+			
+			mommy_anarchy_simpism = {
+			}
+            
+            succession_crisism = {
+			}
+            
+            hell_itself = {
+			}
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_TOTALANARCHY_1"
+			"FACTION_NAME_TOTALANARCHY_2"
+			"FACTION_NAME_TOTALANARCHY_3"
+			"FACTION_NAME_TOTALANARCHY_4"
+			"FACTION_NAME_TOTALANARCHY_5"
+		}
+				
+		war_impact_on_world_tension = 0.75		
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+        color = { 0 0 0 }
+        
+		rules = {
+			can_force_government = YES
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			puppet_cost_factor = -0.2
+			civilian_intel_to_others = 100
+			army_intel_to_others = 100
+			navy_intel_to_others = 100
+			airforce_intel_to_others = 100
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+	
+	
+		Chad_Marxism = {
+		
+		types = {
+		
+			bahatism = {
+			}
+			
+			chadxism = {
+			}
+			
+			juche_gang = {
+			}
+			
+			1984 = {
+			}
+            
+            nazbol_gang = {
+			}
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_MARX_1"
+			"FACTION_NAME_MARX_2"
+			"FACTION_NAME_MARX_3"
+			"FACTION_NAME_MARX_4"
+			"FACTION_NAME_MARX_5"
+		}
+				
+		war_impact_on_world_tension = 0.75		
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+        color = { 71 10 4 }
+        
+		rules = {
+			can_force_government = YES
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			puppet_cost_factor = -0.2
+			civilian_intel_to_others = 100
+			army_intel_to_others = 100
+			navy_intel_to_others = 100
+			airforce_intel_to_others = 100
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+	
+	
+		memecracy = {
+		
+		types = {
+		
+			sus_democracy = {
+			}
+			
+			cuckservatism = {
+			}
+			
+			soycialism = {
+			}
+			
+            libtardism = {
+			}
+            
+            centrist_grillism = {
+			}
+            
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_MEME_1"
+			"FACTION_NAME_MEME_2"
+			"FACTION_NAME_MEME_3"
+			"FACTION_NAME_MEME_4"
+			"FACTION_NAME_MEME_5"
+		}
+				
+		war_impact_on_world_tension = 0.75		
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+        color = { 71 10 4 }
+        
+		rules = {
+			can_force_government = YES
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			puppet_cost_factor = -0.2
+			civilian_intel_to_others = 100
+			army_intel_to_others = 100
+			navy_intel_to_others = 100
+			airforce_intel_to_others = 100
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+	
+	
+		redpilled_monarchy = {
+		
+		types = {
+			
+			dicktatorship = {
+			}
+			
+			imperial_chad = {
+			}
+			
+            inbred_munarchism = {
+			}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_REDPILL_1"
+			"FACTION_NAME_REDPILL_2"
+			"FACTION_NAME_REDPILL_3"
+			"FACTION_NAME_REDPILL_4"
+			"FACTION_NAME_REDPILL_5"
+		}
+				
+		war_impact_on_world_tension = 0.75		
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+        color = { 71 10 4 }
+        
+		rules = {
+			can_force_government = YES
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			puppet_cost_factor = -0.2
+			civilian_intel_to_others = 100
+			army_intel_to_others = 100
+			navy_intel_to_others = 100
+			airforce_intel_to_others = 100
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+	
+		
+		based_fundamentalism = {
+		
+		types = {
+		
+			christian_crusaderism = {
+			}
+			
+			jihadism = {
+			}
+			
+			based_zionism = {
+			}
+            
+            neopagan_barbarism = {
+			}
+            
+            hindu_nationalism = {
+			}
+			
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_BASEDFUNDAMENTALISM_1"
+			"FACTION_NAME_BASEDFUNDAMENTALISM_2"
+			"FACTION_NAME_BASEDFUNDAMENTALISM_3"
+			"FACTION_NAME_BASEDFUNDAMENTALISM_4"
+			"FACTION_NAME_BASEDFUNDAMENTALISM_5"
+		}
+				
+		war_impact_on_world_tension = 0.75		
+		faction_impact_on_world_tension = 0.5
+		
+		ai_communist = yes # uses the commie AI behaviour
+		
+        color = { 71 10 4 }
+        
+		rules = {
+			can_force_government = YES
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+		
+		can_collaborate = yes
+		
+		modifiers = {
+			puppet_cost_factor = -0.2
+			civilian_intel_to_others = 100
+			army_intel_to_others = 100
+			navy_intel_to_others = 100
+			airforce_intel_to_others = 100
+			hidden_modifier = { join_faction_tension = -0.1 }
+		}
+		
+		faction_modifiers = {
+			
+		}
+
+	}
+	
+}

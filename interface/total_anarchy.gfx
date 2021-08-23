@@ -1,0 +1,8 @@
+spriteTypes = {
+
+spriteType = {
+		name = "GFX_ideology_total_anarchy_group"
+		texturefile = "gfx//interface//ideologies//total_anarchy_group.dds"
+	}
+
+}

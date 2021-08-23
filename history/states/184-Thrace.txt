@@ -1,0 +1,14 @@
+state=
+{
+	id=184
+	name="STATE_184"
+	manpower = 382500
+	
+	state_category = rural
+
+
+	provinces=
+	{
+		9791 9930 11774 11905 
+	}
+}

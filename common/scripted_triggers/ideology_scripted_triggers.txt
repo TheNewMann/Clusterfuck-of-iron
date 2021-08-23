@@ -1,0 +1,32 @@
+
+is_enemy_ideology = {
+	OR = {
+		AND = {
+			has_government = cummunism
+			ROOT = {
+				OR = {
+					has_government = bruhgundian_system
+					has_government = memecracy
+				}
+			}
+		}
+		AND = {
+			has_government = memecracy
+			ROOT = {
+				OR = {
+					has_government = cummunism
+					has_government = bruhgundian_system
+				}
+			}
+		}
+		AND = {
+			has_government = bruhgundian_system
+			ROOT = {
+				OR = {
+					has_government = memecracy
+					has_government = cummunism
+				}
+			}
+		}
+	}
+}

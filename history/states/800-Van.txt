@@ -1,0 +1,11 @@
+state={
+	id=800
+	name="STATE_800" #Van
+	manpower = 365490
+
+	state_category = rural
+
+	provinces={
+		652 4583 6935 7470 11880 12376 13121 
+	}
+}

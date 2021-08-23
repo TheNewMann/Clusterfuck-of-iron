@@ -1,0 +1,13 @@
+state=
+{
+	id=212
+	name="STATE_212"
+	manpower = 2611100
+	
+	state_category = city
+
+	provinces=
+	{
+		878 893 3937 6814 6857 6923 6952 6982 9818 9862 11813 
+	}
+}

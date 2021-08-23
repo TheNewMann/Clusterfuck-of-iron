@@ -1,0 +1,13 @@
+
+state={
+	id=290
+	name="STATE_290"
+	manpower = 744000
+	
+	
+	state_category = rural
+
+	provinces={
+		4199 7215 9945 10113 12087 12100 
+	}
+}

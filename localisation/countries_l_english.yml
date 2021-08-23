@@ -1,0 +1,526 @@
+﻿######################################################################[[[THIS IS A MESAGE TO ALL WHO IS WRITING LOC. IF YOU SUFFER FROM  # #SUCH DESEASES AS LAZINESS OR INTELLIGENCE, THE AUTHOR OF THIS MOD  # #CREATED THE FOLLOWING TEMPLATE IN ORDER TO MAKE UR JOB ESEARER]]] #
+#####################################################################
+
+############################################
+##CUMMUNISM
+#_cummunism:1 ""
+#_cummunism:1 ""
+#_cummunism_DEF:1 ""
+#_cummunism_ADJ:0 ""
+##BRUHGUNDIAN SYSTEM
+#_bruhgundian_system:1 ""
+#_bruhgundian_system_DEF:1 ""
+#_bruhgundian_system_ADJ:0 ""
+##CHAD MARXISM
+#_Chad_Marxism:1 ""
+#_Chad_Marxism_DEF:1 ""
+#_Chad_Marxism_ADJ:0 ""
+##MONGOLISM
+#_mongolism:1 ""
+#_mongolism_DEF:1 ""
+#_mongolism_ADJ:0 ""
+##TRANS NATIONAL SOCIALISM
+#_trans_national_socialism:1 ""
+#_trans_national_socialism_DEF:1 ""
+#_trans_national_socialism_ADJ:0 ""
+##ANARCHO CAPITALISM
+#_anarcho_capitalism:1 ""
+#_anarcho_capitalism_DEF:1 ""
+#_anarcho_capitalism_ADJ:0 ""
+##REDPILLED AUTHOCRACY
+#_redpilled_monarchy:1 ""
+#_redpilled_monarchy_DEF:1 ""
+#_redpilled_monarchy_ADJ:0 ""
+##TOTAL ANARCHY
+#_total_anarchy:1 ""
+#_total_anarchy_DEF:1 ""
+#_total_anarchy_ADJ:0 ""
+##MEMECRACY
+#_memecracy:1 ""
+#_memecracy_DEF:1 ""
+#_memecracy_ADJ:0 ""
+##BASED FUNDAMENTALISM
+#_based_fundamentalism:1 ""
+#_based_fundamentalism_DEF:1 ""
+#_based_fundamentalism_ADJ:0 ""
+##stuff for events or incase i fuck up
+#:0 ""
+#_DEF:0 ""
+#_ADJ:0 ""
+
+#####################################################################
+
+#message from lead deb about bruhgundian lithiania : IDK how it's called in german
+#message from lead deb about bruhgundian walachia : IDK how to say new in romanian, replace "new bucharest" by it's romanian equivalent
+#message from lead deb about fundamentalist walachia : not only i am retarded enough to not spell ceausescu correctly, but i am western enough to not have the necessary letter
+
+
+l_english:
+ ########################YAZOV'S LITHUANIA####################
+ #CUMMUNISM
+ LIT_cummunism:1 "Lithuanian CUM league"
+ LIT_cummunism_DEF:1 "Lithuanian CUM league"
+ LIT_cummunism_ADJ:0 "CUM-thuanian"
+ #BRUHGUNDIAN SYSTEM
+ LIT_bruhgundian_system:1 "The Lithuanian black league" 
+ LIT_bruhgundian_system_DEF:1 "The Lithuanian black league"
+ LIT_bruhgundian_system_ADJ:0 "lithuanian"
+ #CHAD MARXISM
+ LIT_Chad_Marxism:1 "The union of STALINIUM WOLF"
+ LIT_Chad_Marxism_DEF:1 "The union of STALINIUM WOLF"
+ LIT_Chad_Marxism_ADJ:0 "lithuanian"
+ #MONGOLISM
+ LIT_mongolism:1 "The tengrist khanat of iron wolf"
+ LIT_mongolism_DEF:1 "The tengrist khanat of iron wolf"
+ LIT_mongolism_ADJ:0 "tengrist lithuania"
+ #TRANS NATIONAL SOCIALISM
+ LIT_trans_national_socialism:1 "The transitionned lituanisch reich"
+ LIT_trans_national_socialism_DEF:1 "The transitionned lituanisch reich"
+ LIT_trans_national_socialism_ADJ:0 "trans-thuanian"
+ #ANARCHO CAPITALISM
+ LIT_anarcho_capitalism:1 "The Lithuanian Lithium Mining Company"
+ LIT_anarcho_capitalism_DEF:1 "The Lithuanian Lithium Mining Company"
+ LIT_anarcho_capitalism_ADJ:0 "LLMC"
+ #REDPILLED AUTHOCRACY
+ LIT_redpilled_monarchy:1 "The big DUCHY of lithuania"
+ LIT_redpilled_monarchy_DEF:1 "The big DUCHY of lithuania"
+ LIT_redpilled_monarchy_ADJ:0 "lithuanian DUKE"
+ #TOTAL ANARCHY
+ LIT_total_anarchy:1 "The lithuanian free territory"
+ LIT_total_anarchy_DEF:1 "The lithuanian free territory"
+ LIT_total_anarchy_ADJ:0 "free lithuanian"
+ #MEMECRACY
+ LIT_memecracy:1 "The totally democratic popular people's republic of Yaśof's lithuania"
+ LIT_memecracy_DEF:1 "The totally democratic popular people's republic of Yaśof's lithuania"
+ LIT_memecracy_ADJ:0 "totally democratic lithuanian"
+ #BASED FUNDAMENTALISM
+ LIT_based_fundamentalism:1 "Baltic sea Hyperborea"
+ LIT_based_fundamentalism_DEF:1 "Baltic sea Hyperborea"
+ LIT_based_fundamentalism_ADJ:0 "Baltic sea Hyperborea"
+ #stuff for events or incase i fuck up
+ LIT:0 "Lithuania"
+ LIT_DEF:0 "Lithuania"
+ LIT_ADJ:0 "Lithuanian"
+ 
+ 
+ #####################ESTONIAN MONGOL#######################
+ #CUMMUNISM
+ EST_cummunism:1 "The Union of Horse Cock Suckers"
+ EST_cummunism_DEF:1 "The Union of Horse Cock Suckers"
+ EST_cummunism_ADJ:0 "Estonian horse cocks sucker"
+ ##BRUHGUNDIAN SYSTEM
+ EST_bruhgundian_system:1 "The purified realms of estonia"
+ EST_bruhgundian_system_DEF:1 "The purified realms of estonia"
+ EST_bruhgundian_system_ADJ:0 "purified estonian"
+ #CHAD MARXISM
+ EST_Chad_Marxism:1 "The Union of Horse Raider"
+ EST_Chad_Marxism_DEF:1 "The Union of Horse Raider"
+ EST_Chad_Marxism_ADJ:0 "UHR"
+ #MONGOLISM
+ EST_mongolism:1 "The estonian khanat"
+ EST_mongolism_DEF:1 "The estonian khanat"
+ EST_mongolism_ADJ:0 "estonian"
+ #TRANS NATIONAL SOCIALISM
+ EST_trans_national_socialism:1 "The Trans Union of Horse cock Sucker"
+ EST_trans_national_socialism_DEF:1 "The Trans Union of Horse cock Sucker"
+ EST_trans_national_socialism_ADJ:0 "TUHR"
+ #ANARCHO CAPITALISM
+ EST_anarcho_capitalism:1 "The Estonian Factory Zone of Findus"
+ EST_anarcho_capitalism_DEF:1 "The Estonian Factory Zone of Findus"
+ EST_anarcho_capitalism_ADJ:0 "EFZF"
+ #REDPILLED AUTHOCRACY
+ EST_redpilled_monarchy:1 "The nordic estonian khanat"
+ EST_redpilled_monarchy_DEF:1 "The more european estonian khanat"
+ EST_redpilled_monarchy_ADJ:0 "nordic-estonian"
+ #TOTAL ANARCHY
+ EST_total_anarchy:1 "The Khanless Estonian Territory"
+ EST_total_anarchy_DEF:1 "The Khanless Estonian Territory"
+ EST_total_anarchy_ADJ:0 "khanless estonian"
+ #MEMECRACY
+ EST_memecracy:1 "The Republic of Estonian Mounted Trolls"
+ EST_memecracy_DEF:1 "The Republic of Estonian Mounted Trolls"
+ EST_memecracy_ADJ:0 "REMT"
+ #BASED FUNDAMENTALISM
+ EST_based_fundamentalism:1 "The Mounted Christian Order of Estonia"
+ EST_based_fundamentalism_DEF:1 "The Mounted Christian Order of Estonia"
+ EST_based_fundamentalism_ADJ:0 "estonian mounted crusader"
+ #stuff for events or incase i fuck up
+ EST:0 "Estonia"
+ EST_DEF:0 "Estonia"
+ EST_ADJ:0 "Estonian"
+ 
+ 
+ ####################ORDENSTATT LATVIA########################
+ #CUMMUNISM
+ LAT_cummunism:1 "Latvian Communist Potatophile Union"
+ LAT_cummunism_DEF:1 "Latvian Communist Potatophile Union"
+ LAT_cummunism_ADJ:0 "potatophile Latvian"
+ ##BRUHGUNDIAN SYSTEM
+ LAT_bruhgundian_system:1 "SS ordenstatt "
+ LAT_bruhgundian_system_DEF:1 "The purified realms of estonia"
+ LAT_bruhgundian_system_ADJ:0 "purified estonian"
+ #CHAD MARXISM
+ LAT_Chad_Marxism:1 "The Union of Horse Raider"
+ LAT_Chad_Marxism_DEF:1 "The Union of Horse Raider"
+ LAT_Chad_Marxism_ADJ:0 "UHR"
+ #MONGOLISM
+ LAT_mongolism:1 "The estonian khanat"
+ LAT_mongolism_DEF:1 "The estonian khanat"
+ LAT_mongolism_ADJ:0 "estonian"
+ #TRANS NATIONAL SOCIALISM
+ LAT_trans_national_socialism:1 "The Trans Union of Horse cock Sucker"
+ LAT_trans_national_socialism_DEF:1 "The Trans Union of Horse cock Sucker"
+ LAT_trans_national_socialism_ADJ:0 "TUHR"
+ #ANARCHO CAPITALISM
+ LAT_anarcho_capitalism:1 "The Estonian Factory Zone of Findus"
+ LAT_anarcho_capitalism_DEF:1 "The Estonian Factory Zone of Findus"
+ LAT_anarcho_capitalism_ADJ:0 "EFZF"
+ #REDPILLED AUTHOCRACY
+ LAT_redpilled_monarchy:1 "The nordic estonian khanat"
+ LAT_redpilled_monarchy_DEF:1 "The more european estonian khanat"
+ LAT_redpilled_monarchy_ADJ:0 "nordic-estonian"
+ #TOTAL ANARCHY
+ LAT_total_anarchy:1 "The Khanless Estonian Territory"
+ LAT_total_anarchy_DEF:1 "The Khanless Estonian Territory"
+ LAT_total_anarchy_ADJ:0 "khanless estonian"
+ #MEMECRACY
+ LAT_memecracy:1 "The Republic of Estonian Mounted Trolls"
+ LAT_memecracy_DEF:1 "The Republic of Estonian Mounted Trolls"
+ LAT_memecracy_ADJ:0 "REMT"
+ #BASED FUNDAMENTALISM
+ LAT_based_fundamentalism:1 "The Mounted Christian Order of Estonia"
+ LAT_based_fundamentalism_DEF:1 "The Mounted Christian Order of Estonia"
+ LAT_based_fundamentalism_ADJ:0 "estonian mounted crusader"
+ 
+ #stuff for events or incase i fuck up
+ LAT:0 "potato Latvia"
+ LAT_DEF:0 "potato Latvia"
+ LAT_ADJ:0 "potato Latvian"
+ 
+ 
+ 
+ ####################BIG BUILDING IN NEWBUCAREST#####################
+ ##CUMMUNISM
+ WLC_cummunism:1 "The CUMmanian commune"
+ WLC_cummunism_DEF:1 "The CUMmanian commune"
+ WLC_cummunism_ADJ:0 "CUMmanian"
+ #BRUHGUNDIAN SYSTEM
+ WLC_bruhgundian_system:1 "The big souvenir shop in new bucharest"
+ WLC_bruhgundian_system_DEF:1 "The big souvenir shop in new bucharest"
+ WLC_bruhgundian_system_ADJ:0 "souvenir shopian"
+ #CHAD MARXISM
+ WLC_Chad_Marxism:1 "The big building in new bucharest"
+ WLC_Chad_Marxism_DEF:1 "The big building in new bucharest"
+ WLC_Chad_Marxism_ADJ:0 "romanian"
+ #MONGOLISM
+ WLC_mongolism:1 "The romanian gypsy occupation zone"
+ WLC_mongolism_DEF:1 "The romanian gypsy occupation zone"
+ WLC_mongolism_ADJ:0 "RGOZ"
+ #TRANS NATIONAL SOCIALISM
+ WLC_trans_national_socialism:1 "HTRmania"
+ WLC_trans_national_socialism_DEF:1 "HTRmania"
+ WLC_trans_national_socialism_ADJ:0 "HTR"
+ #ANARCHO CAPITALISM
+ WLC_anarcho_capitalism:1 "The Rhummanian brassery"
+ WLC_anarcho_capitalism_DEF:1 "The Rhummanian brassery"
+ WLC_anarcho_capitalism_ADJ:0 "Rhummanian"
+ #REDPILLED AUTHOCRACY
+ WLC_redpilled_monarchy:1 "Michael's radical centrist romania"
+ WLC_redpilled_monarchy_DEF:1 "Michael's radical centrist romania"
+ WLC_redpilled_monarchy_ADJ:0 "romanian"
+ #TOTAL ANARCHY
+ WLC_total_anarchy:1 "The big territory in new romania"
+ WLC_total_anarchy_DEF:1 "The big territory in new romania"
+ WLC_total_anarchy_ADJ:0 "romanian"
+ #MEMECRACY
+ WLC_memecracy:1 "The POGpublic of romania"
+ WLC_memecracy_DEF:1 "The POGpublic of romania"
+ WLC_memecracy_ADJ:0 "romanian"
+ #BASED FUNDAMENTALISM
+ WLC_based_fundamentalism:1 "The romanian theocracy dedicated to Causescu"
+ WLC_based_fundamentalism_DEF:1 "The romanian theocracy dedicated to Causescu"
+ WLC_based_fundamentalism_ADJ:0 "Causescu-ite"
+ #stuff for events or incase i fuck up
+ WLC:0 "Romania"
+ WLC_DEF:0 "Romania"
+ WLC_ADJ:0 "Romanian"
+ ####################TRANS SYLVANIA########################
+ 
+ #CUMMUNISM
+ TRA_cummunism:1 "The vampiric orgy"
+ TRA_cummunism_DEF:1 "The vampiric orgy"
+ TRA_cummunism_ADJ:0 "transylvanian"
+ #BRUHGUNDIAN SYSTEM
+ TRA_bruhgundian_system:1 "The All Vampiric Specist Transylvania"
+ TRA_bruhgundian_system_DEF:1 "The All Vampiric Specist Transylvania"
+ TRA_bruhgundian_system_ADJ:0 "transylvanian"
+ #CHAD MARXISM
+ TRA_Chad_Marxism:1 "The big castle in transylvania"
+ TRA_Chad_Marxism_DEF:1 "The big castle in transylvania"
+ TRA_Chad_Marxism_ADJ:0 "transilvanian"
+ #MONGOLISM
+ TRA_mongolism:1 "The bloodthirsty transylvanian khanat"
+ TRA_mongolism_DEF:1 "The bloodthirsty transylvanian khanat"
+ TRA_mongolism_ADJ:0 "transylvanian khanat"
+ #TRANS NATIONAL SOCIALISM
+ TRA_trans_national_socialism:1 "The TRANSylvanian realm"
+ TRA_trans_national_socialism_DEF:1 "The TRANSylvanian realm"
+ TRA_trans_national_socialism_ADJ:0 "TRANSylvanian"
+ #ANARCHO CAPITALISM
+ TRA_anarcho_capitalism:1 "Blood Cola Corporation"
+ TRA_anarcho_capitalism_DEF:1 "Blood Cola Corporation"
+ TRA_anarcho_capitalism_ADJ:0 "BCC"
+ #REDPILLED AUTHOCRACY
+ TRA_redpilled_monarchy:1 "The fucked up kingdom of vlad"
+ TRA_redpilled_monarchy_DEF:1 "The fucked up kingdom of vlad"
+ TRA_redpilled_monarchy_ADJ:0 "transylvanian"
+ #TOTAL ANARCHY
+ TRA_total_anarchy:1 "The transylvanian regency"
+ TRA_total_anarchy_DEF:1 "The transylvanian regency"
+ TRA_total_anarchy_ADJ:0 "transylvanian"
+ #MEMECRACY
+ TRA_memecracy:1 "The transylvanian ordered clusterfuck"
+ TRA_memecracy_DEF:1 "The transylvanian ordered clusterfuck"
+ TRA_memecracy_ADJ:0 "transylvanian"
+ #BASED FUNDAMENTALISM
+ TRA_based_fundamentalism:1 "The all esoetric transylvanian state"
+ TRA_based_fundamentalism_DEF:1 "The all esoetric transylvanian state"
+ TRA_based_fundamentalism_ADJ:0 "transylvanian"
+ #stuff for events or incase i fuck up
+ TRA:0 "transylvania"
+ TRA_DEF:0 "transylvania"
+ TRA_ADJ:0 "transylvanian"
+ 
+ ####################ANTI GYPSY BULGARIAN KHANAT#####################
+ #CUMMUNISM
+ _cummunism:1 ""
+ _cummunism:1 ""
+ _cummunism_DEF:1 ""
+ _cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ _bruhgundian_system:1 ""
+ _bruhgundian_system_DEF:1 ""
+ _bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ _Chad_Marxism:1 ""
+ _Chad_Marxism_DEF:1 ""
+ _Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ _mongolism:1 "The bulgarian khanat"
+ _mongolism_DEF:1 "The bulgarian khanat"
+ _mongolism_ADJ:0 "bulgarian"
+ #TRANS NATIONAL SOCIALISM
+ _trans_national_socialism:1 ""
+ _trans_national_socialism_DEF:1 ""
+ _trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ _anarcho_capitalism:1 ""
+ _anarcho_capitalism_DEF:1 ""
+ _anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ _redpilled_monarchy:1 ""
+ _redpilled_monarchy_DEF:1 ""
+ _redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ _total_anarchy:1 ""
+ _total_anarchy_DEF:1 ""
+ _total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ _memecracy:1 ""
+ _memecracy_DEF:1 ""
+ _memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ _based_fundamentalism:1 ""
+ _based_fundamentalism_DEF:1 ""
+ _based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ :0 ""
+ _DEF:0 ""
+ _ADJ:0 ""
+ ####################Based Ireland#####################
+ #CUMMUNISM
+ _cummunism:1 ""
+ _cummunism:1 ""
+ _cummunism_DEF:1 ""
+ _cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ _bruhgundian_system:1 ""
+ _bruhgundian_system_DEF:1 ""
+ _bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ _Chad_Marxism:1 ""
+ _Chad_Marxism_DEF:1 ""
+ _Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ _mongolism:1 ""
+ _mongolism_DEF:1 ""
+ _mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ _trans_national_socialism:1 ""
+ _trans_national_socialism_DEF:1 ""
+ _trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ _anarcho_capitalism:1 ""
+ _anarcho_capitalism_DEF:1 ""
+ _anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ _redpilled_monarchy:1 ""
+ _redpilled_monarchy_DEF:1 ""
+ _redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ _total_anarchy:1 ""
+ _total_anarchy_DEF:1 ""
+ _total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ _memecracy:1 ""
+ _memecracy_DEF:1 ""
+ _memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ _based_fundamentalism:1 ""
+ _based_fundamentalism_DEF:1 ""
+ _based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ :0 ""
+ _DEF:0 ""
+ _ADJ:0 ""
+ 
+ ####################welsh sheep fucker#####################
+ #CUMMUNISM
+ _cummunism:1 ""
+ _cummunism:1 ""
+ _cummunism_DEF:1 ""
+ _cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ _bruhgundian_system:1 ""
+ _bruhgundian_system_DEF:1 ""
+ _bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ _Chad_Marxism:1 ""
+ _Chad_Marxism_DEF:1 ""
+ _Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ _mongolism:1 ""
+ _mongolism_DEF:1 ""
+ _mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ _trans_national_socialism:1 ""
+ _trans_national_socialism_DEF:1 ""
+ _trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ _anarcho_capitalism:1 ""
+ _anarcho_capitalism_DEF:1 ""
+ _anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ _redpilled_monarchy:1 ""
+ _redpilled_monarchy_DEF:1 ""
+ _redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ _total_anarchy:1 ""
+ _total_anarchy_DEF:1 ""
+ _total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ _memecracy:1 ""
+ _memecracy_DEF:1 ""
+ _memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ _based_fundamentalism:1 ""
+ _based_fundamentalism_DEF:1 ""
+ _based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ :0 ""
+ _DEF:0 ""
+ _ADJ:0 ""
+ 
+ ####################Bri'ish 1984#####################
+ #CUMMUNISM
+ _cummunism:1 ""
+ _cummunism:1 ""
+ _cummunism_DEF:1 ""
+ _cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ _bruhgundian_system:1 ""
+ _bruhgundian_system_DEF:1 ""
+ _bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ _Chad_Marxism:1 ""
+ _Chad_Marxism_DEF:1 ""
+ _Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ _mongolism:1 ""
+ _mongolism_DEF:1 ""
+ _mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ _trans_national_socialism:1 ""
+ _trans_national_socialism_DEF:1 ""
+ _trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ _anarcho_capitalism:1 ""
+ _anarcho_capitalism_DEF:1 ""
+ _anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ _redpilled_monarchy:1 ""
+ _redpilled_monarchy_DEF:1 ""
+ _redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ _total_anarchy:1 ""
+ _total_anarchy_DEF:1 ""
+ _total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ _memecracy:1 ""
+ _memecracy_DEF:1 ""
+ _memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ _based_fundamentalism:1 ""
+ _based_fundamentalism_DEF:1 ""
+ _based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ :0 ""
+ _DEF:0 ""
+ _ADJ:0 ""
+ 
+ ####################SCOTLAND FOREVER!!!!#####################
+ #CUMMUNISM
+ _cummunism:1 ""
+ _cummunism:1 ""
+ _cummunism_DEF:1 ""
+ _cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ _bruhgundian_system:1 ""
+ _bruhgundian_system_DEF:1 ""
+ _bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ _Chad_Marxism:1 ""
+ _Chad_Marxism_DEF:1 ""
+ _Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ _mongolism:1 ""
+ _mongolism_DEF:1 ""
+ _mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ _trans_national_socialism:1 ""
+ _trans_national_socialism_DEF:1 ""
+ _trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ _anarcho_capitalism:1 ""
+ _anarcho_capitalism_DEF:1 ""
+ _anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ _redpilled_monarchy:1 ""
+ _redpilled_monarchy_DEF:1 ""
+ _redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ _total_anarchy:1 ""
+ _total_anarchy_DEF:1 ""
+ _total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ _memecracy:1 ""
+ _memecracy_DEF:1 ""
+ _memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ _based_fundamentalism:1 ""
+ _based_fundamentalism_DEF:1 ""
+ _based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ :0 ""
+ _DEF:0 ""
+ _ADJ:0 ""

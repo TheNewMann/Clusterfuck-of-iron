@@ -1,0 +1,8 @@
+spriteTypes = {
+
+spriteType = {
+		name = "GFX_ideology_chad_marxism_group"
+		texturefile = "gfx//interface//ideologies//chad_marxism_group.dds"
+	}
+
+}

@@ -1,0 +1,11 @@
+state={
+	id=701
+	name="STATE_701"
+
+	provinces={
+		4989 13213 
+	}
+	manpower=199520
+	buildings_max_level_factor=1.000
+	state_category=enclave
+}

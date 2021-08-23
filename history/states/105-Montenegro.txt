@@ -1,0 +1,13 @@
+state=
+{
+	id=105
+	name="STATE_105"
+	manpower=895500
+
+	state_category=rural
+
+	provinces=
+	{
+		937 6913 9809 9821 11858 
+	}
+}

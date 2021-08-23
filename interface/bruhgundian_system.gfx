@@ -1,0 +1,8 @@
+spriteTypes = {
+
+spriteType = {
+		name = "GFX_ideology_bruhgundian_system_group"
+		texturefile = "gfx//interface//ideologies//bruhgundian_system_group"
+	}
+
+}

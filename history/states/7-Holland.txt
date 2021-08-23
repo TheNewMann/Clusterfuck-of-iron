@@ -1,0 +1,11 @@
+state={
+	id=7
+	name="STATE_7"
+
+	provinces={
+		68 391 3211 3314 9498 
+	}
+	manpower=4123000
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

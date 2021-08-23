@@ -1,0 +1,18 @@
+add_namespace = startup
+
+country_event = {
+	
+	id = startup.01
+	title = startup.01.t 
+	desc = startup.01.d
+	picture = GFX_startup_news_event_x
+	
+	is_triggered_only = yes
+
+	trigger = {
+	date > 1936.1.1 }
+
+	option = {
+		name = setup.01.a
+	}
+}

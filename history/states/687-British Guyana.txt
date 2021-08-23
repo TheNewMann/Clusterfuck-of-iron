@@ -1,0 +1,11 @@
+state={
+	id=687
+	name="STATE_687"
+	manpower = 309000
+	
+	state_category = pastoral
+	
+	provinces={
+		4982 8107 12716 
+	}
+}

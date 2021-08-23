@@ -1,0 +1,11 @@
+state={
+	id=806
+	name="STATE_806"
+	manpower=280723
+
+	state_category=town
+
+	provinces={
+		743 9710 11697 
+	}
+}

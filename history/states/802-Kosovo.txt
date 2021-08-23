@@ -1,0 +1,12 @@
+state={
+	id=802
+	name="STATE_802"
+	manpower=616000
+
+	state_category=pastoral
+
+	provinces=
+	{
+		6940 9849 9874 9890 
+	}
+}

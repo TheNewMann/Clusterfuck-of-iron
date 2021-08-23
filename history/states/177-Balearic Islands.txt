@@ -1,0 +1,11 @@
+state=
+{
+	id=177
+	name="STATE_177"
+	manpower = 365500
+	
+	state_category = rural
+	provinces=
+	{
+7114 9793 9845 	}
+}
