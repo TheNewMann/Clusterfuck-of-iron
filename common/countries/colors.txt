@@ -120,3 +120,7 @@ AMA = {
 UBK = {
 	color = rgb { 58 255 196 }
 	color_ui = rgb { 58 255 196 }
+
+CRO = {
+	color = rgb { 58 255 196 }
+	color_ui = rgb { 58 255 196 }

@@ -525,8 +525,8 @@ l_english:
  _DEF:0 ""
  _ADJ:0 ""
  
-  ####################based uzbek government in exile#####################
-  #CUMMUNISM
+ ####################based uzbek government in exile#####################
+ #CUMMUNISM
  UBK_cummunism:1 "Uzbek Cummunist Republic"
  UBK_cummunism_DEF:1 "the People's Union of Uzbekistan"
  UBK_cummunism_ADJ:0 "Uzbek"
@@ -570,3 +570,49 @@ l_english:
  UBK:0 "Uzbekistan"
  UBK_DEF:0 "Uzbekistan"
  UBK_ADJ:0 "Uzbek"
+ 
+ ###################based uzbek government in exile#####################
+ #CUMMUNISM
+ CRO_cummunism:1 ""
+ CRO_cummunism_DEF:1 ""
+ CRO_cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ CRO_bruhgundian_system:1 ""
+ CRO_bruhgundian_system_DEF:1 ""
+ CRO_bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ CRO_Chad_Marxism:1 ""
+ CRO_Chad_Marxism_DEF:1 ""
+ CRO_Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ CRO_mongolism:1 ""
+ CRO_mongolism_DEF:1 ""
+ CRO_mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ CRO_trans_national_socialism:1 ""
+ CRO_trans_national_socialism_DEF:1 ""
+ CRO_trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ CRO_anarcho_capitalism:1 ""
+ CRO_anarcho_capitalism_DEF:1 ""
+ CRO_anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ CRO_redpilled_monarchy:1 ""
+ CRO_redpilled_monarchy_DEF:1 ""
+ CRO_redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ CRO_total_anarchy:1 ""
+ CRO_total_anarchy_DEF:1 ""
+ CRO_total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ CRO_memecracy:1 ""
+ CRO_memecracy_DEF:1 ""
+ CRO_memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ CRO_based_fundamentalism:1 ""
+ CRO_based_fundamentalism_DEF:1 ""
+ CRO_based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ CRO:0 ""
+ CRO_DEF:0 ""
+ CRO_ADJ:0 ""
