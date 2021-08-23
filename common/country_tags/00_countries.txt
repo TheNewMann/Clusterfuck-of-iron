@@ -26,6 +26,8 @@ UBK = "countries/Uzbekistan.txt"
 CRO = "countries/Croatia.txt"
 ALB = "countries/Albania.txt"
 BOS = "countries/Bosnia.txt"
+MNT = "countries/Montenegro.txt"
+SER = "countries/Serbia.txt"
 
 
 

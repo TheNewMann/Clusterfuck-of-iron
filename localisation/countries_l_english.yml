@@ -708,3 +708,95 @@ l_english:
  BOS:0 ""
  BOS_DEF:0 ""
  BOS_ADJ:0 ""
+ 
+ ###################racist serbians (monten*gro)#####################
+ #CUMMUNISM
+ MNT_cummunism:1 ""
+ MNT_cummunism_DEF:1 ""
+ MNT_cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ MNT_bruhgundian_system:1 ""
+ MNT_bruhgundian_system_DEF:1 ""
+ MNT_bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ MNT_Chad_Marxism:1 ""
+ MNT_Chad_Marxism_DEF:1 ""
+ MNT_Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ MNT_mongolism:1 ""
+ MNT_mongolism_DEF:1 ""
+ MNT_mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ MNT_trans_national_socialism:1 ""
+ MNT_trans_national_socialism_DEF:1 ""
+ MNT_trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ MNT_anarcho_capitalism:1 ""
+ MNT_anarcho_capitalism_DEF:1 ""
+ MNT_anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ MNT_redpilled_monarchy:1 ""
+ MNT_redpilled_monarchy_DEF:1 ""
+ MNT_redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ MNT_total_anarchy:1 ""
+ MNT_total_anarchy_DEF:1 ""
+ MNT_total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ MNT_memecracy:1 ""
+ MNT_memecracy_DEF:1 ""
+ MNT_memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ MNT_based_fundamentalism:1 ""
+ MNT_based_fundamentalism_DEF:1 ""
+ MNT_based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ MNT:0 ""
+ MNT_DEF:0 ""
+ MNT_ADJ:0 ""
+ 
+ ###################warcrime and remove kebab enjoyer#####################
+ #CUMMUNISM
+ SER_cummunism:1 ""
+ SER_cummunism_DEF:1 ""
+ SER_cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ SER_bruhgundian_system:1 ""
+ SER_bruhgundian_system_DEF:1 ""
+ SER_bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ SER_Chad_Marxism:1 ""
+ SER_Chad_Marxism_DEF:1 ""
+ SER_Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ SER_mongolism:1 ""
+ SER_mongolism_DEF:1 ""
+ SER_mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ SER_trans_national_socialism:1 ""
+ SER_trans_national_socialism_DEF:1 ""
+ SER_trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ SER_anarcho_capitalism:1 ""
+ SER_anarcho_capitalism_DEF:1 ""
+ SER_anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ SER_redpilled_monarchy:1 ""
+ SER_redpilled_monarchy_DEF:1 ""
+ SER_redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ SER_total_anarchy:1 ""
+ SER_total_anarchy_DEF:1 ""
+ SER_total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ SER_memecracy:1 ""
+ SER_memecracy_DEF:1 ""
+ SER_memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ SER_based_fundamentalism:1 ""
+ SER_based_fundamentalism_DEF:1 ""
+ SER_based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ SER:0 ""
+ SER_DEF:0 ""
+ SER_ADJ:0 ""

@@ -17,6 +17,13 @@ BOS = {
 	color = rgb { 90 158 98 }
 	color_ui = rgb { 90 158 98 }
 
+MNT = {
+	color = rgb { 74 145 196 }
+	color_ui = rgb { 74 145 196 }
+
+SER = {
+	color = rgb { 72 111 196 }
+	color_ui = rgb { 72 111 196 }
 
 
 # North America
