@@ -571,7 +571,7 @@ l_english:
  UBK_DEF:0 "Uzbekistan"
  UBK_ADJ:0 "Uzbek"
  
- ###################based uzbek government in exile#####################
+ ###################croat nazi ustase funni haha#####################
  #CUMMUNISM
  CRO_cummunism:1 ""
  CRO_cummunism_DEF:1 ""
@@ -616,3 +616,95 @@ l_english:
  CRO:0 ""
  CRO_DEF:0 ""
  CRO_ADJ:0 ""
+ 
+ ###################alanalabania aka albania#####################
+ #CUMMUNISM
+ ALB_cummunism:1 ""
+ ALB_cummunism_DEF:1 ""
+ ALB_cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ ALB_bruhgundian_system:1 ""
+ ALB_bruhgundian_system_DEF:1 ""
+ ALB_bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ ALB_Chad_Marxism:1 ""
+ ALB_Chad_Marxism_DEF:1 ""
+ ALB_Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ ALB_mongolism:1 ""
+ ALB_mongolism_DEF:1 ""
+ ALB_mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ ALB_trans_national_socialism:1 ""
+ ALB_trans_national_socialism_DEF:1 ""
+ ALB_trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ ALB_anarcho_capitalism:1 ""
+ ALB_anarcho_capitalism_DEF:1 ""
+ ALB_anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ ALB_redpilled_monarchy:1 ""
+ ALB_redpilled_monarchy_DEF:1 ""
+ ALB_redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ ALB_total_anarchy:1 ""
+ ALB_total_anarchy_DEF:1 ""
+ ALB_total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ ALB_memecracy:1 ""
+ ALB_memecracy_DEF:1 ""
+ ALB_memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ ALB_based_fundamentalism:1 ""
+ ALB_based_fundamentalism_DEF:1 ""
+ ALB_based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ ALB:0 ""
+ ALB_DEF:0 ""
+ ALB_ADJ:0 ""
+ 
+ ###################mashallah but serbian#####################
+ #CUMMUNISM
+ BOS_cummunism:1 ""
+ BOS_cummunism_DEF:1 ""
+ BOS_cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ BOS_bruhgundian_system:1 ""
+ BOS_bruhgundian_system_DEF:1 ""
+ BOS_bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ BOS_Chad_Marxism:1 ""
+ BOS_Chad_Marxism_DEF:1 ""
+ BOS_Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ BOS_mongolism:1 ""
+ BOS_mongolism_DEF:1 ""
+ BOS_mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ BOS_trans_national_socialism:1 ""
+ BOS_trans_national_socialism_DEF:1 ""
+ BOS_trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ BOS_anarcho_capitalism:1 ""
+ BOS_anarcho_capitalism_DEF:1 ""
+ BOS_anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ BOS_redpilled_monarchy:1 ""
+ BOS_redpilled_monarchy_DEF:1 ""
+ BOS_redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ BOS_total_anarchy:1 ""
+ BOS_total_anarchy_DEF:1 ""
+ BOS_total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ BOS_memecracy:1 ""
+ BOS_memecracy_DEF:1 ""
+ BOS_memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ BOS_based_fundamentalism:1 ""
+ BOS_based_fundamentalism_DEF:1 ""
+ BOS_based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ BOS:0 ""
+ BOS_DEF:0 ""
+ BOS_ADJ:0 ""

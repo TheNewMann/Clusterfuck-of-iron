@@ -24,6 +24,12 @@ IRE = "countries/Ireland.txt"
 SCO = "countries/Scotland.txt"
 UBK = "countries/Uzbekistan.txt"
 CRO = "countries/Croatia.txt"
+ALB = "countries/Albania.txt"
+BOS = "countries/Bosnia.txt"
+
+
+
+
 
 ### North America
 TEX = "countries/Texas.txt"

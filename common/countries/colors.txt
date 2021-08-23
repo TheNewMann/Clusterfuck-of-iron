@@ -1,5 +1,24 @@
 #reload countrycolors
 
+# Europe
+UBK = {
+	color = rgb { 58 255 196 }
+	color_ui = rgb { 58 255 196 }
+
+CRO = {
+	color = rgb { 58 255 196 }
+	color_ui = rgb { 58 255 196 }
+
+ALB = {
+	color = rgb { 204 34 40 }
+	color_ui = rgb { 204 34 40 }
+
+BOS = {
+	color = rgb { 90 158 98 }
+	color_ui = rgb { 90 158 98 }
+
+
+
 # North America
 TEX = {
 	color = rgb { 60 93 180 }
@@ -117,10 +136,3 @@ AMA = {
 	color_ui = rgb { 240 248 0 }
 }
 
-UBK = {
-	color = rgb { 58 255 196 }
-	color_ui = rgb { 58 255 196 }
-
-CRO = {
-	color = rgb { 58 255 196 }
-	color_ui = rgb { 58 255 196 }
