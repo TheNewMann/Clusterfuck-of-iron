@@ -54,17 +54,23 @@ set_convoys = 20
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = bruhgundian_system
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	democratic = 34
-	fascism = 6
-	communism = 6
-	neutrality = 54
+	anarcho_capitalism = 0
+	based_fundamentalism = 0
+	bruhgundian_system = 100
+	chad_marxism = 0
+	cummunism = 0
+	memecracy = 0
+	mongolism = 0
+	redpilled_monarchism = 0
+	total_anarchy = 0
+	trans_national_socialism = 0
 }
 
 create_country_leader = {
@@ -79,16 +85,22 @@ create_country_leader = {
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = neutrality
+		ruling_party = bruhgundian_system
 		last_election = "1936.1.1"
 		election_frequency = 48
 		elections_allowed = no
 	}
 	set_popularities = {
-		democratic = 25
-		fascism = 20
-		communism = 5
-		neutrality = 50
+	anarcho_capitalism = 0
+	based_fundamentalism = 0
+	bruhgundian_system = 100
+	chad_marxism = 0
+	cummunism = 0
+	memecracy = 0
+	mongolism = 0
+	redpilled_monarchism = 0
+	total_anarchy = 0
+	trans_national_socialism = 0
 	}
 }
 
