@@ -5,6 +5,12 @@ state=
 	manpower = 745000
 	
 	state_category = rural
+			
+	history = {
+		owner = LIB
+		add_core_of = LIB
+	}
+	
 	provinces={
 		7959 8006
 	}

@@ -7,4 +7,10 @@ state={
 	manpower=1603975
 	buildings_max_level_factor=1.000
 	state_category=pastoral
+						
+	history = {
+		owner = ZAM
+		add_core_of = ZAM
+	}
+	
 }

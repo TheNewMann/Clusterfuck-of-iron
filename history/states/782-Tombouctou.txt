@@ -5,7 +5,12 @@ state={
 	manpower = 79243
 	
 	state_category = wasteland
-
+	
+	history = {
+		owner = ALG
+		add_core_of = ALG
+	}
+	
 	provinces={
 		1115 2068 10725 10868
 	}

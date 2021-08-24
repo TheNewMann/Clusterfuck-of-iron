@@ -5,6 +5,12 @@ state={
 	manpower = 2945782
 	
 	state_category = rural
+		
+	history = {
+		owner = CHD
+		add_core_of = CHD
+	}
+	
 	provinces={
 		2080 5036 5054 6039 7963 9137 11194 
 	}

@@ -5,7 +5,12 @@ state={
 	manpower = 3324782
 	
 	state_category = rural
-
+			
+	history = {
+		owner = LIB
+		add_core_of = LIB
+	}
+	
 	provinces={
 		2012 2044 4927 5045 5101 7930 7954 8116 10788 10812 10829 10915 12751 12794 12838
 	}

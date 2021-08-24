@@ -6,6 +6,11 @@ state={
 	
 	state_category = wasteland
 
+	history = {
+		owner = CON
+		add_core_of = CON
+	}
+	
 	provinces={
 		988 7219 7931 8016 8048 10071 10883 10951 12741 12775 12824 
 	}

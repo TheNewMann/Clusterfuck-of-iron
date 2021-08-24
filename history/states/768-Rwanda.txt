@@ -4,6 +4,11 @@ state={
 	
 	state_category = pastoral
 
+	history = {
+		owner = CON
+		add_core_of = CON
+	}
+	
 	provinces={
 		9962
 	}

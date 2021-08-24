@@ -5,7 +5,12 @@ state=
 	manpower = 469136
 	
 	state_category = town
-
+	
+	history = {
+		owner = TUN
+		add_core_of = TUN
+	}
+	
 	provinces=
 	{
 		1118 1149 1189 4194 7066 7209 9980 12039 

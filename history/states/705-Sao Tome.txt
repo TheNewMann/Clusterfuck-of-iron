@@ -3,6 +3,12 @@ state={
 	name="STATE_705"
 	manpower=24725	
 	state_category = tiny_island
+	
+	history = {
+		owner = CHD
+		add_core_of = CHD
+	}
+	
 	provinces={
 		13015 
 	}

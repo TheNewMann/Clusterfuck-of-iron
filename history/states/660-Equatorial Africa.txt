@@ -5,7 +5,12 @@ state={
 	manpower = 1136921
 	
 	state_category = pastoral
-
+	
+	history = {
+		owner = CHD
+		add_core_of = CHD
+	}
+	
 	provinces={
 		1974 3165 5084 8078 11108 12719 12830 11012
 	}

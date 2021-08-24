@@ -5,7 +5,12 @@ state={
 	manpower = 82535
 	
 	state_category = enclave
-
+	
+	history = {
+		owner = TUN
+		add_core_of = TUN
+	}
+	
 	provinces={
 		1127 4120 10123 11954 
 	}

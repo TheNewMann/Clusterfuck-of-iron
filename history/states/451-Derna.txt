@@ -5,7 +5,12 @@ state={
 	manpower = 45628
 	
 	state_category = wasteland
-
+	
+	history = {
+		owner = TUN
+		add_core_of = TUN
+	}
+	
 	provinces={
 		1130 1204 4136 4151 7082 9992 10120 12094 
 	}
