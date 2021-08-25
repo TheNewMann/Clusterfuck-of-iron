@@ -1,106 +1,14 @@
-﻿capital = 70
-
-# Starting tech
-set_technology = {
-	infantry_weapons = 1
-}
-
-set_convoys = 20
-
-1939.1.1 = {
-	
-	#generic focuses
-	complete_national_focus = army_effort
-	complete_national_focus = equipment_effort
-	complete_national_focus = motorization_effort
-	complete_national_focus = aviation_effort
-	complete_national_focus = naval_effort
-	complete_national_focus = large_navy
-	complete_national_focus = industrial_effort
-	complete_national_focus = construction_effort
-	complete_national_focus = production_effort
-	
-	set_technology = {
-		tech_support = 1
-		tech_recon = 1
-		support_weapons = 1
-		gw_artillery = 1
-
-		#doctrines
-		air_superiority = 1
-		grand_battle_plan = 1
-		trench_warfare = 1
-		fleet_in_being = 1
-		battlefleet_concentration = 1
-		convoy_sailing = 1
-
-		#electronics
-		electronic_mechanical_engineering = 1
-		radio = 1
-		radio_detection = 1
-		mechanical_computing = 1
-		computing_machine = 1
-
-		#industry
-		basic_machine_tools = 1
-		improved_machine_tools = 1
-		advanced_machine_tools = 1
-		construction1 = 1
-		construction2 = 1
-		dispersed_industry = 1
-		dispersed_industry2 = 1
-	}
-}
-
+﻿capital = 470
+set_convoys = 5
 
 set_politics = {
-	ruling_party = bruhgundian_system
+	ruling_party = total_anarchy
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	anarcho_capitalism = 0
-	based_fundamentalism = 0
-	bruhgundian_system = 100
-	chad_marxism = 0
-	cummunism = 0
-	memecracy = 0
-	mongolism = 0
-	redpilled_monarchism = 0
-	total_anarchy = 0
-	trans_national_socialism = 0
-}
-
-create_country_leader = {
-	name = "Linus Sebastian"
-	desc = "The man; the myth; the legend; Linus Sebastian, better known as Linus Tech Tips, is a living success story. Having built a Youtube Empire based on his tech channel, he set out to create something never-before seen: a time machine. After finishing it, he started testing it. Then, he and his most trusted advisors, accidentaly traveled back to 1936. Being charismatic and extremely popular with the locals, they declared the independence of Vancouver, establishing the first ever technocracy."
-	picture = "linus.dds"
-	ideology = oligarchism
-	traits = {
-		#
-	}
-}
-
-1939.1.1 = {
-	set_politics = {
-		ruling_party = bruhgundian_system
-		last_election = "1936.1.1"
-		election_frequency = 48
-		elections_allowed = no
-	}
-	set_popularities = {
-		anarcho_capitalism = 0
-		based_fundamentalism = 0
-		bruhgundian_system = 100
-		chad_marxism = 0
-		cummunism = 0
-		memecracy = 0
-		mongolism = 0
-		redpilled_monarchism = 0
-		total_anarchy = 0
-		trans_national_socialism = 0
-	}
+    total_anarchy = 100
 }
 
