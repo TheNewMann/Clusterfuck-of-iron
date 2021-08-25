@@ -33,6 +33,7 @@ SPR = "countries/Spain.txt"
 OCC = "countries/Occitania.txt"
 NIT = "countries/North Italy.txt"
 NPL = "countries/Naples.txt"
+SLO = "countries/Slovakia.txt"
 
 ### North America
 TEX = "countries/Texas.txt"

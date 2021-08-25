@@ -67,6 +67,11 @@ NPL = {
 	color_ui = rgb { 255 255 122 }
 }
 
+SLO = {
+	color = rgb { 247 249 255 }
+	color_ui = rgb { 247 249 255 }
+}
+
 # North America
 TEX = {
 	color = rgb { 60 93 180 }

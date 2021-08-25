@@ -846,3 +846,49 @@ l_english:
  HUN:0 ""
  HUN_DEF:0 ""
  HUN_ADJ:0 ""
+ 
+ ###################i ran out of jokes (slovakia)#####################
+ #CUMMUNISM
+ SLO_cummunism:1 ""
+ SLO_cummunism_DEF:1 ""
+ SLO_cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ SLO_bruhgundian_system:1 ""
+ SLO_bruhgundian_system_DEF:1 ""
+ SLO_bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ SLO_Chad_Marxism:1 ""
+ SLO_Chad_Marxism_DEF:1 ""
+ SLO_Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ SLO_mongolism:1 ""
+ SLO_mongolism_DEF:1 ""
+ SLO_mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ SLO_trans_national_socialism:1 ""
+ SLO_trans_national_socialism_DEF:1 ""
+ SLO_trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ SLO_anarcho_capitalism:1 ""
+ SLO_anarcho_capitalism_DEF:1 ""
+ SLO_anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ SLO_redpilled_monarchy:1 ""
+ SLO_redpilled_monarchy_DEF:1 ""
+ SLO_redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ SLO_total_anarchy:1 ""
+ SLO_total_anarchy_DEF:1 ""
+ SLO_total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ SLO_memecracy:1 ""
+ SLO_memecracy_DEF:1 ""
+ SLO_memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ SLO_based_fundamentalism:1 ""
+ SLO_based_fundamentalism_DEF:1 ""
+ SLO_based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ SLO:0 ""
+ SLO_DEF:0 ""
+ SLO_ADJ:0 ""
