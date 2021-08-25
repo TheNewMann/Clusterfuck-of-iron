@@ -938,3 +938,95 @@ l_english:
  MAC:0 ""
  MAC_DEF:0 ""
  MAC_ADJ:0 ""
+ 
+ ###################gypsy bulgars#####################
+ #CUMMUNISM
+ WBG_cummunism:1 ""
+ WBG_cummunism_DEF:1 ""
+ WBG_cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ WBG_bruhgundian_system:1 ""
+ WBG_bruhgundian_system_DEF:1 ""
+ WBG_bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ WBG_Chad_Marxism:1 ""
+ WBG_Chad_Marxism_DEF:1 ""
+ WBG_Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ WBG_mongolism:1 ""
+ WBG_mongolism_DEF:1 ""
+ WBG_mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ WBG_trans_national_socialism:1 ""
+ WBG_trans_national_socialism_DEF:1 ""
+ WBG_trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ WBG_anarcho_capitalism:1 ""
+ WBG_anarcho_capitalism_DEF:1 ""
+ WBG_anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ WBG_redpilled_monarchy:1 ""
+ WBG_redpilled_monarchy_DEF:1 ""
+ WBG_redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ WBG_total_anarchy:1 ""
+ WBG_total_anarchy_DEF:1 ""
+ WBG_total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ WBG_memecracy:1 ""
+ WBG_memecracy_DEF:1 ""
+ WBG_memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ WBG_based_fundamentalism:1 ""
+ WBG_based_fundamentalism_DEF:1 ""
+ WBG_based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ WBG:0 ""
+ WBG_DEF:0 ""
+ WBG_ADJ:0 ""
+ 
+ ###################ukraine part 1#####################
+ #CUMMUNISM
+ WUK_cummunism:1 ""
+ WUK_cummunism_DEF:1 ""
+ WUK_cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ WUK_bruhgundian_system:1 ""
+ WUK_bruhgundian_system_DEF:1 ""
+ WUK_bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ WUK_Chad_Marxism:1 ""
+ WUK_Chad_Marxism_DEF:1 ""
+ WUK_Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ WUK_mongolism:1 ""
+ WUK_mongolism_DEF:1 ""
+ WUK_mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ WUK_trans_national_socialism:1 ""
+ WUK_trans_national_socialism_DEF:1 ""
+ WUK_trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ WUK_anarcho_capitalism:1 ""
+ WUK_anarcho_capitalism_DEF:1 ""
+ WUK_anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ WUK_redpilled_monarchy:1 ""
+ WUK_redpilled_monarchy_DEF:1 ""
+ WUK_redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ WUK_total_anarchy:1 ""
+ WUK_total_anarchy_DEF:1 ""
+ WUK_total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ WUK_memecracy:1 ""
+ WUK_memecracy_DEF:1 ""
+ WUK_memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ WUK_based_fundamentalism:1 ""
+ WUK_based_fundamentalism_DEF:1 ""
+ WUK_based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ WUK:0 ""
+ WUK_DEF:0 ""
+ WUK_ADJ:0 ""

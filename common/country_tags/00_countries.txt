@@ -35,6 +35,8 @@ NIT = "countries/North Italy.txt"
 NPL = "countries/Naples.txt"
 SLO = "countries/Slovakia.txt"
 MAC = "countries/Macedonia.txt"
+WBG = "countries/West Bulgaria.txt"
+WUK = "countries/West Ukraine.txt"
 
 ### North America
 TEX = "countries/Texas.txt"

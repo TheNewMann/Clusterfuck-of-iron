@@ -77,6 +77,16 @@ MAC = {
 	color_ui = rgb { 204 94 77 }
 }
 
+WBG = {
+	color = rgb { 17 158 31 }
+	color_ui = rgb { 17 158 31 }
+}
+
+WUK = {
+	color = rgb { 43 142 255 }
+	color_ui = rgb { 43 142 255 }
+}
+
 # North America
 TEX = {
 	color = rgb { 60 93 180 }
