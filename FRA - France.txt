@@ -1,0 +1,29 @@
+capital = 1
+
+oob = "standard_templates"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = Chad_marxism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	mongolism = 0
+	cummunism = 0
+	bruhgundian_system = 0
+	anarcho_capitalism = 0
+	trans_national_socialism = 0
+	total_anarchy = 0
+	Chad_marxism  = 100
+	memecracy = 0
+	redpilled_monarchy = 0
+	based_fundamentalism = 0
+}
