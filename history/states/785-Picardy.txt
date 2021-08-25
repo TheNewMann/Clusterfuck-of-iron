@@ -4,6 +4,21 @@ state={
 	manpower = 1580000
 	
 	state_category = town
+	
+	
+	history={
+		victory_points = {
+			11420 5
+		}
+		owner = BUR
+		add_core_of = FRA
+		add_core_of = BUR
+		buildings = {
+			infrastructure = 8
+			industrial_complex = 1
+		}
+	}
+
 
 	provinces={
 		454 3402 3447 6585 9561 11420 11549

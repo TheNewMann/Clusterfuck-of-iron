@@ -17,9 +17,9 @@
  mongolism:0"Mongolism"
  mongolism_noun:0"Mongolist"
  mongolism_desc:0"Mongolism"
- chad_marxism:0"Chad Marxism"
- chad_marxism_noun:0"Chad Marxist"
- chad_marxism_desc:0"Chad Marxism"
+ Chad_marxism:0"Chad Marxism"
+ Chad_marxism_noun:0"Chad Marxist"
+ Chad_marxism_desc:0"Chad Marxism"
  trans_national_socialism:0"Trans Nationalsocialism"
  trans_national_socialism_noun:0"Trans Nationalsocialist"
  trans_national_socialism_desc:0"Literally Twitter"
@@ -29,6 +29,9 @@
  redpilled_monarchy:0"Redpilled Monarchy"
  redpilled_monarchy_noun:0"Redpilled Monarchist"
  redpilled_monarchy_desc:0"Redpilled Monarchy"
+ based_fundamentalism:0"Based Fundamentalism"
+ based_fundamentalism_noun:0"Based Fundamentalist"
+ based_fundamentalism_desc:0"Based Fundamentalism"
  #######################LITParties#######################
  
 LIT_cummunism_party:0 "LFU(uwu)"
