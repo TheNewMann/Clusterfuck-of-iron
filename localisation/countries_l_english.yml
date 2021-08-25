@@ -847,7 +847,7 @@ l_english:
  HUN_DEF:0 ""
  HUN_ADJ:0 ""
  
- ###################i ran out of jokes (slovakia)#####################
+ ###################slovakia (ran out of jokes)#####################
  #CUMMUNISM
  SLO_cummunism:1 ""
  SLO_cummunism_DEF:1 ""
@@ -892,3 +892,49 @@ l_english:
  SLO:0 ""
  SLO_DEF:0 ""
  SLO_ADJ:0 ""
+ 
+ ###################monkeydonia#####################
+ #CUMMUNISM
+ MAC_cummunism:1 ""
+ MAC_cummunism_DEF:1 ""
+ MAC_cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ MAC_bruhgundian_system:1 ""
+ MAC_bruhgundian_system_DEF:1 ""
+ MAC_bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ MAC_Chad_Marxism:1 ""
+ MAC_Chad_Marxism_DEF:1 ""
+ MAC_Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ MAC_mongolism:1 ""
+ MAC_mongolism_DEF:1 ""
+ MAC_mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ MAC_trans_national_socialism:1 ""
+ MAC_trans_national_socialism_DEF:1 ""
+ MAC_trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ MAC_anarcho_capitalism:1 ""
+ MAC_anarcho_capitalism_DEF:1 ""
+ MAC_anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ MAC_redpilled_monarchy:1 ""
+ MAC_redpilled_monarchy_DEF:1 ""
+ MAC_redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ MAC_total_anarchy:1 ""
+ MAC_total_anarchy_DEF:1 ""
+ MAC_total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ MAC_memecracy:1 ""
+ MAC_memecracy_DEF:1 ""
+ MAC_memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ MAC_based_fundamentalism:1 ""
+ MAC_based_fundamentalism_DEF:1 ""
+ MAC_based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ MAC:0 ""
+ MAC_DEF:0 ""
+ MAC_ADJ:0 ""

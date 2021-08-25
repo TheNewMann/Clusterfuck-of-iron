@@ -72,6 +72,11 @@ SLO = {
 	color_ui = rgb { 247 249 255 }
 }
 
+MAC = {
+	color = rgb { 204 94 77 }
+	color_ui = rgb { 204 94 77 }
+}
+
 # North America
 TEX = {
 	color = rgb { 60 93 180 }

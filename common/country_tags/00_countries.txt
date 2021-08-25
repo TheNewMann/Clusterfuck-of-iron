@@ -34,6 +34,7 @@ OCC = "countries/Occitania.txt"
 NIT = "countries/North Italy.txt"
 NPL = "countries/Naples.txt"
 SLO = "countries/Slovakia.txt"
+MAC = "countries/Macedonia.txt"
 
 ### North America
 TEX = "countries/Texas.txt"
