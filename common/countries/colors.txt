@@ -4,35 +4,43 @@
 UBK = {
 	color = rgb { 58 255 196 }
 	color_ui = rgb { 58 255 196 }
+}
 
 CRO = {
 	color = rgb { 58 255 196 }
 	color_ui = rgb { 58 255 196 }
+}
 
 ALB = {
 	color = rgb { 204 34 40 }
 	color_ui = rgb { 204 34 40 }
+}
 
 BOS = {
 	color = rgb { 90 158 98 }
 	color_ui = rgb { 90 158 98 }
+}
 
 MNT = {
 	color = rgb { 74 145 196 }
 	color_ui = rgb { 74 145 196 }
+}
 
 SER = {
 	color = rgb { 72 111 196 }
 	color_ui = rgb { 72 111 196 }
+}
 
 HUN = {
 	color = rgb { 158 45 81 }
 	color_ui = rgb { 158 45 81 }
 }
+
 LIT = {
 	color = rgb { 219 219 119 }
 	color_ui = rgb { 255 255 155 }
 }
+
 EST = {
 	color = rgb { 50 135 175 }
 	color_ui = rgb { 99 204 254 }
@@ -90,19 +98,19 @@ WUK = {
 THR = {
 	color = rgb { 150 204 200 }
 	color_ui = rgb { 150 204 200 }
-
+}
 GRE = {
 	color = rgb { 75 181 216 }
 	color_ui = rgb { 75 181 216 }
-	
+}	
 SPA = {
 	color = rgb { 175 19 61 }
 	color_ui = rgb { 175 19 61 }
-
+}
 EGR = {
 	color = rgb { 94 198 255 }
 	color_ui = rgb { 94 198 255 }
-
+}
 # North America
 TEX = {
 	color = rgb { 60 93 180 }
