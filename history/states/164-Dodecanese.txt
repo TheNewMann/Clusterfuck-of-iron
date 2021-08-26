@@ -5,7 +5,25 @@ state=
 	manpower = 120000
 	
 	state_category = small_island
-
+	
+	history=
+	{
+		owner = EGR
+		victory_points = {
+			10007 1 
+		}
+		buildings = {
+			infrastructure = 5
+			air_base = 1
+			10007 = {
+				naval_base = 4
+			}
+			7003 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = EGR
+	}
 	provinces=
 	{
 7003 10007 	}

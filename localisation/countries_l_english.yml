@@ -1030,3 +1030,187 @@ l_english:
  WUK:0 ""
  WUK_DEF:0 ""
  WUK_ADJ:0 ""
+ 
+ ###################thrace#####################
+ #CUMMUNISM
+ THR_cummunism:1 ""
+ THR_cummunism_DEF:1 ""
+ THR_cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ THR_bruhgundian_system:1 ""
+ THR_bruhgundian_system_DEF:1 ""
+ THR_bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ THR_Chad_Marxism:1 ""
+ THR_Chad_Marxism_DEF:1 ""
+ THR_Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ THR_mongolism:1 ""
+ THR_mongolism_DEF:1 ""
+ THR_mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ THR_trans_national_socialism:1 ""
+ THR_trans_national_socialism_DEF:1 ""
+ THR_trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ THR_anarcho_capitalism:1 ""
+ THR_anarcho_capitalism_DEF:1 ""
+ THR_anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ THR_redpilled_monarchy:1 ""
+ THR_redpilled_monarchy_DEF:1 ""
+ THR_redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ THR_total_anarchy:1 ""
+ THR_total_anarchy_DEF:1 ""
+ THR_total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ THR_memecracy:1 ""
+ THR_memecracy_DEF:1 ""
+ THR_memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ THR_based_fundamentalism:1 ""
+ THR_based_fundamentalism_DEF:1 ""
+ THR_based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ THR:0 ""
+ THR_DEF:0 ""
+ THR_ADJ:0 ""
+ 
+ ###################greece#####################
+ #CUMMUNISM
+ GRE_cummunism:1 ""
+ GRE_cummunism_DEF:1 ""
+ GRE_cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ GRE_bruhgundian_system:1 ""
+ GRE_bruhgundian_system_DEF:1 ""
+ GRE_bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ GRE_Chad_Marxism:1 ""
+ GRE_Chad_Marxism_DEF:1 ""
+ GRE_Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ GRE_mongolism:1 ""
+ GRE_mongolism_DEF:1 ""
+ GRE_mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ GRE_trans_national_socialism:1 ""
+ GRE_trans_national_socialism_DEF:1 ""
+ GRE_trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ GRE_anarcho_capitalism:1 ""
+ GRE_anarcho_capitalism_DEF:1 ""
+ GRE_anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ GRE_redpilled_monarchy:1 ""
+ GRE_redpilled_monarchy_DEF:1 ""
+ GRE_redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ GRE_total_anarchy:1 ""
+ GRE_total_anarchy_DEF:1 ""
+ GRE_total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ GRE_memecracy:1 ""
+ GRE_memecracy_DEF:1 ""
+ GRE_memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ GRE_based_fundamentalism:1 ""
+ GRE_based_fundamentalism_DEF:1 ""
+ GRE_based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ GRE:0 ""
+ GRE_DEF:0 ""
+ GRE_ADJ:0 ""
+ 
+ ###################eastern greece#####################
+ #CUMMUNISM
+ EGR_cummunism:1 ""
+ EGR_cummunism_DEF:1 ""
+ EGR_cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ EGR_bruhgundian_system:1 ""
+ EGR_bruhgundian_system_DEF:1 ""
+ EGR_bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ EGR_Chad_Marxism:1 ""
+ EGR_Chad_Marxism_DEF:1 ""
+ EGR_Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ EGR_mongolism:1 ""
+ EGR_mongolism_DEF:1 ""
+ EGR_mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ EGR_trans_national_socialism:1 ""
+ EGR_trans_national_socialism_DEF:1 ""
+ EGR_trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ EGR_anarcho_capitalism:1 ""
+ EGR_anarcho_capitalism_DEF:1 ""
+ EGR_anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ EGR_redpilled_monarchy:1 ""
+ EGR_redpilled_monarchy_DEF:1 ""
+ EGR_redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ EGR_total_anarchy:1 ""
+ EGR_total_anarchy_DEF:1 ""
+ EGR_total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ EGR_memecracy:1 ""
+ EGR_memecracy_DEF:1 ""
+ EGR_memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ EGR_based_fundamentalism:1 ""
+ EGR_based_fundamentalism_DEF:1 ""
+ EGR_based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ EGR:0 ""
+ EGR_DEF:0 ""
+ EGR_ADJ:0 ""
+ 
+ ###################this is SPARTA!!!1!!1!11!11!1#####################
+ #CUMMUNISM
+ SPA_cummunism:1 ""
+ SPA_cummunism_DEF:1 ""
+ SPA_cummunism_ADJ:0 ""
+ #BRUHGUNDIAN SYSTEM
+ SPA_bruhgundian_system:1 ""
+ SPA_bruhgundian_system_DEF:1 ""
+ SPA_bruhgundian_system_ADJ:0 ""
+ #CHAD MARXISM
+ SPA_Chad_Marxism:1 ""
+ SPA_Chad_Marxism_DEF:1 ""
+ SPA_Chad_Marxism_ADJ:0 ""
+ #MONGOLISM
+ SPA_mongolism:1 ""
+ SPA_mongolism_DEF:1 ""
+ SPA_mongolism_ADJ:0 ""
+ #TRANS NATIONAL SOCIALISM
+ SPA_trans_national_socialism:1 ""
+ SPA_trans_national_socialism_DEF:1 ""
+ SPA_trans_national_socialism_ADJ:0 ""
+ #ANARCHO CAPITALISM
+ SPA_anarcho_capitalism:1 ""
+ SPA_anarcho_capitalism_DEF:1 ""
+ SPA_anarcho_capitalism_ADJ:0 ""
+ #REDPILLED AUTHOCRACY
+ SPA_redpilled_monarchy:1 ""
+ SPA_redpilled_monarchy_DEF:1 ""
+ SPA_redpilled_monarchy_ADJ:0 ""
+ #TOTAL ANARCHY
+ SPA_total_anarchy:1 ""
+ SPA_total_anarchy_DEF:1 ""
+ SPA_total_anarchy_ADJ:0 ""
+ #MEMECRACY
+ SPA_memecracy:1 ""
+ SPA_memecracy_DEF:1 ""
+ SPA_memecracy_ADJ:0 ""
+ #BASED FUNDAMENTALISM
+ SPA_based_fundamentalism:1 ""
+ SPA_based_fundamentalism_DEF:1 ""
+ SPA_based_fundamentalism_ADJ:0 ""
+ #stuff for events or incase i fuck up
+ SPA:0 ""
+ SPA_DEF:0 ""
+ SPA_ADJ:0 ""

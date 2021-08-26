@@ -87,6 +87,22 @@ WUK = {
 	color_ui = rgb { 43 142 255 }
 }
 
+THR = {
+	color = rgb { 150 204 200 }
+	color_ui = rgb { 150 204 200 }
+
+GRE = {
+	color = rgb { 75 181 216 }
+	color_ui = rgb { 75 181 216 }
+	
+SPA = {
+	color = rgb { 175 19 61 }
+	color_ui = rgb { 175 19 61 }
+
+EGR = {
+	color = rgb { 94 198 255 }
+	color_ui = rgb { 94 198 255 }
+
 # North America
 TEX = {
 	color = rgb { 60 93 180 }

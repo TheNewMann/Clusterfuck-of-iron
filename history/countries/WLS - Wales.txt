@@ -1,65 +1,14 @@
-﻿capital = 122
+﻿capital = 470
+set_convoys = 5
 
-#oob = ""
-
-# Starting tech
-set_technology = {
-	infantry_weapons = 1
-	fuel_silos = 1
-}
-
-set_convoys = 20
-
-1939.1.1 = {
-	
-	set_technology = {
-
-		#doctrines
-		grand_battle_plan = 1
-		trench_warfare = 1
-
-		#electronics
-		electronic_mechanical_engineering = 1
-		radio = 1
-		radio_detection = 1
-		mechanical_computing = 1
-
-		#industry
-		basic_machine_tools = 1
-		improved_machine_tools = 1
-		advanced_machine_tools = 1
-		construction1 = 1
-		construction2 = 1
-		dispersed_industry = 1
-		dispersed_industry2 = 1
-	}
-}
 set_politics = {
-	ruling_party = redpilled_monarchy
+	ruling_party = total_anarchy
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
+
 set_popularities = {
-	cummunism = 0
-	bruhgundian_system = 0
-	total_anarchy = 0
-	memecracy = 0
-	anarcho_capitalism = 5
-	trans_national_socialism = 0
-	mongolism = 0
-	chad_marxism = 10
-	redpilled_monarchy = 85
-	based_fundamentalism = 0
+    total_anarchy = 100
 }
 
-#create_country_leader = {
-#	
-#	name = "Jonas Lote"
-#	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_2.dds"
-#	expire = "1965.1.1"
-#	ideology = dicktatorship
-#	traits = {
-#		#
-#	}
-#}

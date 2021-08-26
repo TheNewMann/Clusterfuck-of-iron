@@ -1,21 +1,14 @@
-capital = 160
-
-#oob = ""
-
-set_research_slots = 3
-
-set_convoys = 20
-
+﻿capital = 470
+set_convoys = 5
 
 set_politics = {
-	ruling_party = chad_marxism
+	ruling_party = total_anarchy
 	last_election = "1936.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
+
 set_popularities = {
-	democratic = 50
-	fascism = 15
-	communism = 15
-	neutrality = 20
+    total_anarchy = 100
 }
+
