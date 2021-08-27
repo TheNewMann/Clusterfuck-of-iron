@@ -43,6 +43,8 @@ EGR = "countries/Eastern Greece.txt"
 GRE = "countries/Greece.txt"
 SPA = "countries/Sparta.txt"
 THR = "countries/Thrace.txt"
+TUR = "countries/Turkey.txt"
+PHD = "countries/PLACEHOLDER.txt"
 
 ### North America
 TEX = "countries/Texas.txt"

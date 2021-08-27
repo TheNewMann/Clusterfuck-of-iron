@@ -99,17 +99,30 @@ THR = {
 	color = rgb { 150 204 200 }
 	color_ui = rgb { 150 204 200 }
 }
+
 GRE = {
 	color = rgb { 75 181 216 }
 	color_ui = rgb { 75 181 216 }
 }	
+
 SPA = {
 	color = rgb { 175 19 61 }
 	color_ui = rgb { 175 19 61 }
 }
+
 EGR = {
 	color = rgb { 94 198 255 }
 	color_ui = rgb { 94 198 255 }
+}
+
+TUR = {
+	color = rgb { 178 48 58 }
+	color_ui = rgb { 178 48 58 }
+}
+
+PHD = {
+	color = rgb { 172 175 173 }
+	color_ui = rgb { 172 175 173 }
 }
 # North America
 TEX = {

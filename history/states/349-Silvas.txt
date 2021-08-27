@@ -6,7 +6,18 @@ state={
 	
 	state_category = rural
 
+	history={
+		owner = PHD
+		victory_points = {
+			9777 3 
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = PHD
+	}
+
 	provinces={
-		3890 3903 3950 6919 6950 6965 9761 9777
+		3890 3903 3950 6919 6950 6965 9761 9777 
 	}
 }
