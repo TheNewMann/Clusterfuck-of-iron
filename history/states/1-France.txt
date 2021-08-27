@@ -6,6 +6,11 @@ state={
 	
 	state_category = town
 
+	history = {
+		owner = OCC
+		add_core_of = OCC
+	}
+	
 	provinces={
 		3838 9851 11804 
 	}

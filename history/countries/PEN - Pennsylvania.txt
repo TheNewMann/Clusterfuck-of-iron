@@ -1,4 +1,4 @@
-﻿capital = 396
+﻿capital = 360
 set_convoys = 5
 
 set_politics = {

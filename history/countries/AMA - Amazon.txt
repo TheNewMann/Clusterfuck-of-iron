@@ -1,4 +1,4 @@
-﻿capital = AMA
+﻿capital = 495
 set_convoys = 5
 
 set_politics = {

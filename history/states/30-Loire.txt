@@ -6,6 +6,11 @@ state={
 
 	state_category = city
 
+	history = {
+		owner = BRI
+		add_core_of = BRI
+	}
+	
 	provinces={
 		503 527 3495 3509 3523 9478 9867 11463 11465 11613 11616 
 	}

@@ -5,7 +5,13 @@ state=
 	manpower = 365500
 	
 	state_category = rural
-	provinces=
-	{
-7114 9793 9845 	}
+	
+	history = {
+		owner = OCC
+		add_core_of = OCC
+	}
+	
+	provinces={
+		7114 9793 9845 	
+	}
 }

@@ -6,7 +6,12 @@ state=
 	
 	state_category = town
 
-	provinces=
-	{
-902 6891 9772 9863 11755 11773 11824 11874 	}
+	history = {
+		owner = OCC
+		add_core_of = OCC
+	}
+	
+	provinces={
+		902 6891 9772 9863 11755 11773 11824 11874 	
+	}
 }

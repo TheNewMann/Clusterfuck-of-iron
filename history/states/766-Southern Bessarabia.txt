@@ -1,13 +1,16 @@
-state=
-{
+state={
 	id=766
 	name="STATE_766"
 	manpower = 566600
 	
 	state_category = rural
 
-	provinces=
-	{
+	history = {
+		owner = WUK 
+		add_core_of = WUK
+	}
+
+	provinces={
 		3701 3704 6727 6743
 	}
 }
