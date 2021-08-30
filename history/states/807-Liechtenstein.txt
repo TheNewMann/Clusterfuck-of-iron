@@ -1,0 +1,22 @@
+state = {
+	id = 807
+	name = "Liechtenstein"
+	
+	manpower = 17125
+	state_category = town
+	
+	history = {
+		owner = LIE
+		add_core_of = LIE
+		victory_points = { 13236 5 }
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		13236
+	}
+}

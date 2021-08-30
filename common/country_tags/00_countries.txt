@@ -45,6 +45,7 @@ SPA = "countries/Sparta.txt"
 THR = "countries/Thrace.txt"
 TUR = "countries/Turkey.txt"
 PHD = "countries/PLACEHOLDER.txt"
+LIE = "countries/Liechtenstein.txt"
 
 ### North America
 TEX = "countries/Texas.txt"
